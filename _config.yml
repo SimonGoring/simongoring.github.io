@@ -1,0 +1,21 @@
+# Site settings
+title: Simon Goring
+email: simon.j.goring@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Understanding the Earth System one data point at a time.  Using the principles of 
+  data science for synthesis and discovery to help bridge the divide between heterogenous data 
+  and Big Data applications. Building tools to facilitate outreach and support diversity 
+  in the biogeosciences sciences.
+baseurl: ""
+url: "http://simongoring.github.io"
+twitter_username: sjgoring
+github_username:  SimonGoring
+
+# Build settings
+markdown: kramdown
+
+collections:
+  resources:
+    output: true
+  cv:
+    output: true
