@@ -1,6 +1,7 @@
 ---
 layout: default
 title: CV
+weight: 5
 ---
 
 # Curriculum Vitae
@@ -9,7 +10,7 @@ A semi-curated set of research activities covering the past 10 years.  My full C
 
 My academic research has been cited over 500 times and my non-academic publications have been used as the basis of educational modules, internal project development, and have helped spur engagement of individuals from under-represented STEM backgrounds.
 
-My work is strongly interdisciplinary, focusing on basic plant biology, paleoecology, quantitative analysis and social systems within academia.  I contribute to the ongoing development of the Neotoma Paleoecological Database, 
+My work is strongly interdisciplinary, focusing on basic plant biology, paleoecology, quantitative analysis and social systems within academia.  I contribute to the ongoing development of the Neotoma Paleoecological Database, 	
 
 {% for cvs in site.cv %}
   <div class="col-lg-3 col-md-6 text-center">

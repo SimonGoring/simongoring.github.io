@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Resources
+weight: 4
 ---
 
 # Resources
