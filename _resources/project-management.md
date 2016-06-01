@@ -60,26 +60,27 @@ There is virtue in learning how to use `git` from the command line.  You may fin
   2.  Navigate to the directory you hope to put the repository files into.  `git` will put the repository into a new folder.
 
   3.  You will now clone the repository (we're assuming it's mine, and it's called `GettingStarted`) using the command:
-    ```
-    git clone http://github.com/SimonGoring/GettingStarted
-    ```
+
+```bash
+git clone http://github.com/SimonGoring/GettingStarted
+```
 
   4. You will now see that there is a new directory called `GettingStarted` in your working directory.  This is a clone of the repository.  You can now open the files with whatever editor you want to use.  If you're using R and RStudio you can use the `git` tools there.  Either way, once you've changed files you will want to `commit` them and then `push` back to the parent repository.  First you want to check the `status` of the local clone to see which files have changed, `add` the important files so that they are *staged* for your next `commit`.  After this you will `commit` the changes with a useful `-m`essage, and then `push` those changes back up to the parent repository.
 
-    ```
-    git status
-    git add *
-    git commit -m "I made some changes."
-    git push
-    ```
+```bash
+git status
+git add *
+git commit -m "I made some changes."
+git push
+```
 
   5. At this point you will be asked for your user name and password, you'll use your own personal user name and password (not the name of the user who created the shared repository).  And you're done!
 
   6. Except, if you're done, then why is there a number 6?  Because, `clone`ing brings the whole repository onto your computer, but what happens after you've cloned?  When you next want to revisit the code to edit it you'll need to make sure you've got everyone elses' changes.  In that case you need to `pull`:
 
-    ```
-    git pull
-    ```
+```bash
+git pull
+```
 
   7. Done.
 
@@ -95,15 +96,16 @@ In this model you will first **Fork** the repository, and then repeat most of th
 
   4.  But what about number 6?!  Yes, we're a bit ahead, but you need to know what to do if someon else has made a Pull request and the base fork has changed.  In this case we need to do two steps, first we need link your local clone to the `upstream` repository (the base fork), then we need to make sure you're on your master, and then you need to merge the changes from the `upstream` fork:
 
-    ```
-    git remote add upstream http://github.com/SimonGoring/GettingStarted
-    git fetch upstream
-    git checkout master
-    git merge upstream/master
-    ```
+```bash
+git remote add upstream http://github.com/SimonGoring/GettingStarted
+git fetch upstream
+git checkout master
+git merge upstream/master
+```
+
 
   5.  Now you're ready to edit the files again, check it and push it.
 
 ## Shared with Branches
 
-In this model 
+In this model you have a single repository, all team members are Contributors, but each member works in their own branch.
