@@ -12,6 +12,21 @@ concept: Academic Peer Reviewed Publications and Software
 <hr>
 <br>
 <h1>Publications</h1>
+
+<h2>In Review</h2>
+
+<p class="hangingindent">
+Tipton J, Hooten M, Goring SJ, Williams JW. Reconstruction of spatio-temporal temperature from sparse historical records using robust probabilistic principal component regression. <i>Advances in Statistical Climatology, Meteorology and Oceanography</i></p>
+
+<p class="hangingindent">
+ Kujawa E, Goring SJ, Dawson A, Calcote R, Grimm EC, Hotchkiss SC, Jackson ST, Lynch EA, McLachlan J, St-Jacques J-M, Umbanhowar Jr. C, Williams JW. The effect of anthropogenic land cover change on pollen-vegetation relationships in the American Midwest. <i>Anthropocene</i></p>
+
+<p class="hangingindent">
+Williams JW, Anderson DM, Carter M, Fils D, Hsu L, Goring SJ, Lehnert K, Noren A, Peters S, Smith D, Jenkins C, Olszewski T, Uhen MD. Building Big Data from the Long Tail: Community-Curated Data Resources in the Paleogeosciences. <i>EOS Transactions of the AGU</i>
+</p>
+
+<h2>Published</h2>
+
 <p class="hangingindent">
 Dawson A, Paciorek C, McLachlan J, Goring S, Williams JW, Jackson S. 2016. Quantifying pollen-vegetation relationships to reconstruct ancient forests using 19th-century forest composition and pollen data. <i>Quaternary Science Reviews</i>. <b>137</b>:156-175.</p>
 
