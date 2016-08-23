@@ -1,0 +1,32 @@
+---
+title: Ontology in Earth Science
+concept: Thoughts about ontology systems and their applicability in the Earth Sciences
+layout: page
+---
+
+
+At the [linked.earth](http://www.organicdatacuration.org/linkedearth/index.php/Main_Page) meeting in Boulder, CO (June 22 - 23) we really started digging into [ontologies](https://en.wikipedia.org/wiki/Ontology_(information_science)).  In building the DOI system and landing pages for Neotoma I've been thinking about ways to build out our system so that more information can be contained in the Landing Page documents, extending the ability of web technologies to harvest & gather information about the scientific content embedded in the records.  This has led me to several key resources for building web-readable content to supplement landing pages.
+
+## `FOAF`
+
+`foaf` is a pretty standard ontology.  It is named after the acronym "Friend of a Friend" and is used to describe people, their relationships and their activities.  [The foaf specification](http://xmlns.com/foaf/spec/) is very extensive, and, frankly, I've found the documentation somewhat opaque.  That said, I'm still fairly new at working my way through these documents.
+
+The key use for `foaf` is describing our author data in Neotoma.  Using either JSON or RDF/XML it's possible to directly translate most author and institutional data to some form of RDF.  I'll include code snippets later, when I revisit this post.
+
+## `PROV`
+
+Prov is an ontology used to describe the provenance of objects and activities.  It can focus on the agent of change in the system, the object that is changed across the chain of provenance, or the activities, carried out by the agents on a set of objects.  The [PROV](https://www.w3.org/TR/2013/NOTE-prov-primer-20130430/) data model is of particular interest.  Part of our motivation for beginning to mint DOIs for [Neotoma](http://neotomadb.org) -- described more fully [here]() -- was so that we could provide them as currency for the exchange of data between related databases.
+
+`PROV` would allow us to link to resources like [OpenCoreData](http://opencoredata.org/) or [LacCore](http://lrc.geo.umn.edu/laccore/), where the lake sediment for the lacustrine cores might be stored.  We could establish a chain of provenance for materials and measurements from the field to publication.
+
+## `owl-time`
+
+The [time ontology in OWL](https://www.w3.org/TR/owl-time/) is more complex and we're working through it slowly.  In particular, pollen samples are obtained from sediment within a core, a physical interval with (initially) unknown temporal bounds.  Even when we build a chronology, most pollen samples are not directly dated, and dates for individual depth intervals are known with non-normal uncertainty bounds.
+
+<figure>
+<img src="/images/calib.gif" alt="Radiocarbon calibration curve">
+<figcaption><i>A schema for calibration of <sup>14</sup>C dates from the <a href="https://c14.arch.ox.ac.uk/embed.php?File=calibration.html">University of Oxford's radiocarbon Web-info</a>, showing the non-normal distribution of calibrated radiocarbon dates.</i></figcaption></figure>
+
+As far as we can see, it is a challenge to have adjacent physical samples with overlapping age bounds, but a constraint that ages are monotonically increasing with depth (in theory).  A full implementation would have to pair descriptions of `thing`s, time, provenance, some description of the methods for chronology generation.  In essence, all of the work we've done with Neotoma to fully (and successfully) model paleoecological data needs to be translated into a web-accessible ontology.
+
+This is not simple work, and needs some time to sort out.
