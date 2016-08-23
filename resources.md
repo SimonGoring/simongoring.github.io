@@ -13,7 +13,7 @@ A collection of instructional or informational resources relating to R, web deve
     <div class="resource-box">
       <h3>{{ resources.title }}</h3>
       {{ resources.concept }} <a href="{{resources.url}}">[Link]</a>
-      <p>
     </div>
   </div>
+  <br>
 {% endfor %}
