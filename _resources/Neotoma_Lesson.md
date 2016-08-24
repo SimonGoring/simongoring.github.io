@@ -1,10 +1,19 @@
 ---
 layout: page
-title: Using the Neotoma Database - Tools Part I
+title: The Neotoma Database - Tools
 concept: Learning how to explore hypotheses with Neotoma tools.
 ---
 
 By: Simon Goring
+
+***
+
+**Table of Contents**
+
+* TOC
+{:toc}
+
+***
 
 # Paleo-Computing
 
