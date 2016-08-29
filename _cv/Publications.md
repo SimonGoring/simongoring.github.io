@@ -16,13 +16,16 @@ concept: Academic Peer Reviewed Publications and Software
 <h2>In Review</h2>
 
 <p class="hangingindent">
+Peyron O, Combourieu-Nebout N, Brayshaw D, Goring S, Andrieu-Pone V, Desprat S, Fletcher W,  Gambin B, Ioakim C, Joannin S, Kotthoff U, Kouli K, VMontade V, Pross J, Sadori L, and Magny M.  The climate of the Mediterranean basin during the Holocene from terrestrial and marine pollen records: A model/data comparison. <i>Climate of the Past Discussions</i> <a href="http://www.clim-past-discuss.net/cp-2016-65/">Discussion Paper Link</a></p>
+
+<p class="hangingindent">
 Tipton J, Hooten M, Goring SJ, Williams JW. Reconstruction of spatio-temporal temperature from sparse historical records using robust probabilistic principal component regression. <i>Advances in Statistical Climatology, Meteorology and Oceanography</i></p>
 
 <p class="hangingindent">
  Kujawa E, Goring SJ, Dawson A, Calcote R, Grimm EC, Hotchkiss SC, Jackson ST, Lynch EA, McLachlan J, St-Jacques J-M, Umbanhowar Jr. C, Williams JW. The effect of anthropogenic land cover change on pollen-vegetation relationships in the American Midwest. <i>Anthropocene</i></p>
 
 <p class="hangingindent">
-Williams JW, Anderson DM, Carter M, Fils D, Hsu L, Goring SJ, Lehnert K, Noren A, Peters S, Smith D, Jenkins C, Olszewski T, Uhen MD. Building Big Data from the Long Tail: Community-Curated Data Resources in the Paleogeosciences. <i>EOS Transactions of the AGU</i>
+Williams JW, Anderson DM, Carter M, Fils D, Hsu L, Goring SJ, Lehnert K, Noren A, Peters S, Smith D, Jenkins C, Olszewski T, Uhen MD. Building Big Data from the Long Tail: Community-Curated Data Resources in the Paleogeosciences. <i>GSA Today</i>
 </p>
 
 <h2>Published</h2>
