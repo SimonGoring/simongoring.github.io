@@ -8,7 +8,7 @@ concept: Academic Peer Reviewed Publications and Software
 
 <hr>
 <br>
-[<a href="https://impactstory.org/u/0000-0002-2700-4605">ImpactStory</a>] - [<a href="http://scholar.google.com/citations?user=Q3ekwgkAAAAJ&hl=en">Google Citations</a>] - [<a href="http://orcid.org/0000-0002-2700-4605">ORCiD</a>]
+[<a href="https://impactstory.org/u/0000-0002-2700-4605" title="AltMetric Links">ImpactStory</a>] - [<a href="http://scholar.google.com/citations?user=Q3ekwgkAAAAJ&hl=en" title="Google Scholar homepage">Google Citations</a>] - [<a href="http://orcid.org/0000-0002-2700-4605" title="Unique Researcher Identifier">ORCiD</a>]
 <hr>
 <br>
 <h1>Publications</h1>
@@ -19,7 +19,7 @@ concept: Academic Peer Reviewed Publications and Software
 Goring SJ, Williams JW. Effect of historic land-use and climate change on treeclimate relationships in the northern United States. <i>Ecology Letters</i>: ELE-00978-2016</p>
 
 <p class="hangingindent">
-Williams JW, Anderson DM, Carter M, Fils D, Hsu L, Goring SJ, Lehnert K, Noren A, Peters S, Smith D, Jenkins C, Olszewski T, Uhen MD. Building Big Data from the Long Tail: Community-Curated Data Resources in the Paleogeosciences. <i>GSA Today</i>
+Williams JW, Anderson DM, Carter M, Fils D, Hsu L, Goring SJ, Lehnert K, Noren A, Peters S, Smith D, Jenkins C, Olszewski T, Uhen MD. Building Big Data from the Long Tail: Community-Curated Data Resources in the Paleogeosciences. <i>GSA Today</i>.
 </p>
 
 <h2>Accepted</h2>
@@ -27,7 +27,7 @@ Williams JW, Anderson DM, Carter M, Fils D, Hsu L, Goring SJ, Lehnert K, Noren A
 Tipton J, Hooten M, Goring SJ, Williams JW. <b>accepted</b>. Reconstruction of spatio-temporal temperature from sparse historical records using robust probabilistic principal component regression. <i>Advances in Statistical Climatology, Meteorology and Oceanography</i></p>
 
 <p class="hangingindent">
- Kujawa E, Goring SJ, Dawson A, Calcote R, Grimm EC, Hotchkiss SC, Jackson ST, Lynch EA, McLachlan J, St-Jacques J-M, Umbanhowar Jr. C, Williams JW. <b>accepted</b>. The effect of anthropogenic land cover change on pollen-vegetation relationships in the American Midwest. <i>Anthropocene</i></p>
+ Kujawa E, Goring SJ, Dawson A, Calcote R, Grimm EC, Hotchkiss SC, Jackson ST, Lynch EA, McLachlan J, St-Jacques J-M, Umbanhowar Jr. C, Williams JW. <b>accepted</b>. The effect of anthropogenic land cover change on pollen-vegetation relationships in the American Midwest. <i>Anthropocene</i> [<a href="http://dx.doi.org/10.1016/j.ancene.2016.09.005" title="In press paper link">Early View</a>]</p>
 
 <p class="hangingindent">
 Peyron O, Combourieu-Nebout N, Brayshaw D, Goring S, Andrieu-Pone V, Desprat S, Fletcher W,  Gambin B, Ioakim C, Joannin S, Kotthoff U, Kouli K, Montade V, Pross J, Sadori L, and Magny M. <b>accepted</b>. The climate of the Mediterranean basin during the Holocene from terrestrial and marine pollen records: A model/data comparison. <i>Climate of the Past Discussions</i> <a href="http://www.clim-past-discuss.net/cp-2016-65/">Discussion Paper Link</a></p>
