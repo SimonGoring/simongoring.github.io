@@ -83,7 +83,9 @@ There are a lot of problems with this code, for example, as [Gavin Simpson]() po
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/sjGoring">@sjGoring</a> (apart from terrible habit of pulling out objects for no reason: plot(lat ~ long, data = zebras, col = zebras$counts)...</p>&mdash; Gavin Simpson (@ucfagls) <a href="https://twitter.com/ucfagls/status/788114990045630464">October 17, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-If this code is stuck into a seperate file, sourced where the ellipses are in the upper code block I might never know why my values for `some_prediction` are suddenly so strange.  This is one of the problems of dealing with complex projects, and I've run into it a number of times.
+Regardless, let's accept our collaborators suggestion, and assume that they are contributing as best they can.
+
+If this code is stuck into a seperate file and sourced where the ellipses are in the upper code block I might never know why my values for `some_prediction` are suddenly so strange.  This is one of the problems of dealing with complex projects, and I've run into it a number of times.
 
 One solution is to wrap everything into functions when you `source()` code.  Pass in only the most important details, pass out only the most critical outputs.  Everything then only lives in the local environment of the function, an is extinguished once the function runs:
 
