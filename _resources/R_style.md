@@ -43,7 +43,7 @@ The advantage here is in simplicity.  If you were running each of those files in
 R < main-R-file.R
 ```
 
-Now R will run each of those `source()` calls, and you'll have fewer files in each directory.
+Now R will run each of those `source()` calls, and you'll have fewer files in each directory.  There are other solutions, using RMarkdown
 
 # Object Names
 
@@ -78,6 +78,11 @@ plot(x, y, col = counts)
 dev.off()
 ```
 
+There are a lot of problems with this code, for example, as [Gavin Simpson]() points out here:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/sjGoring">@sjGoring</a> (apart from terrible habit of pulling out objects for no reason: plot(lat ~ long, data = zebras, col = zebras$counts)...</p>&mdash; Gavin Simpson (@ucfagls) <a href="https://twitter.com/ucfagls/status/788114990045630464">October 17, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 If this code is stuck into a seperate file, sourced where the ellipses are in the upper code block I might never know why my values for `some_prediction` are suddenly so strange.  This is one of the problems of dealing with complex projects, and I've run into it a number of times.
 
 One solution is to wrap everything into functions when you `source()` code.  Pass in only the most important details, pass out only the most critical outputs.  Everything then only lives in the local environment of the function, an is extinguished once the function runs:
@@ -94,6 +99,13 @@ plot_zebras <- function(){
 }
 
 ```
+
+There are issues with this function, as Barry Rowlingson  pointed out:
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/sjGoring">@sjGoring</a> <a href="https://twitter.com/ucfagls">@ucfagls</a> <a href="https://twitter.com/MozillaScience">@MozillaScience</a> <a href="https://twitter.com/UBC">@UBC</a> <a href="https://twitter.com/minisciencegirl">@minisciencegirl</a> suppose you want to see that plot on screen? Or send to PDF?</p>&mdash; Barry Rowlingson (@geospacedman) <a href="https://twitter.com/geospacedman/status/788115266127458308">October 17, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+The function really doesn't do anything except make the plot.  In this case, let's assume that's all the user wants to do.  If they wanted to do more you could use `return()` different important paramters, add different plotting options, or refactor the function to provide more flexibility.
 
 In this case, the changes to `x` and `y` happen internally within the function.  You could generalize this function if you wanted, to add parameters that would change the output and input file names, but you don't need to.  Now, if you wrote:
 
