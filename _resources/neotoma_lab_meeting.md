@@ -2,6 +2,7 @@
 title: Advanced Neotoma for Fun and Profit
 concept: A broader vignette of the functionality in the R neotoma package.
 layout: page
+section: R Coding
 ---
 
 **Note: This page still isn't rendering quite the way I want it to!**
