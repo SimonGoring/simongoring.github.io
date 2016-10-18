@@ -69,7 +69,7 @@ git clone http://github.com/SimonGoring/GettingStarted
 
 ```bash
 git status
-git add *
+git add :/
 git commit -m "I made some changes."
 git push
 ```
@@ -109,3 +109,7 @@ git merge upstream/master
 ## Shared with Branches
 
 In this model you have a single repository, all team members are Contributors, but each member works in their own branch.
+
+# Further Reading
+
+* [GitHub Flow](https://guides.github.com/introduction/flow/)
