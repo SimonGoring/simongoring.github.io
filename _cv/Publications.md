@@ -84,9 +84,11 @@ Matthes, JH., Goring S, Williams JW, Dietze MC. 2016. Benchmarking historical CM
 
 ## SOFTWARE
 
+<p class="hangingindent">Goring S. (2016)  <i>earthlife</i> – an R package for the EarthLife Consortium API.  [<a href="https://github.com/earthlifeconsortium/earthlife">GitHub</a>]</p>
+
 <p class="hangingindent">Blaauw M & Goring SJ. 2014. clam: Classic age modeling in R. [<a href="https://github.com/SimonGoring/clam">GitHub</a>]</p>
 
-<p class="hangingindent">Goring S. (2013)  <i>neotoma</i>i – an R package for the Neotoma Paleoecological Database.  [<a href="https://github.com/ropensci/neotoma">GitHub</a>]</p>
+<p class="hangingindent">Goring S. (2013)  <i>neotoma</i> – an R package for the Neotoma Paleoecological Database.  [<a href="https://github.com/ropensci/neotoma">GitHub</a>]</p>
 
 
 ## COMMENTS, BOOK CHAPTERS & OTHER ARTICLES

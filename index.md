@@ -49,7 +49,7 @@ weight: 1
 </rdf:RDF>
 </script>
 
-<img src="images/Wicked_East.png" style="float:right; margin-left:10px">
+<img src="images/Wicked_East.png" style="float:right; margin-left:10px" title="The Wicked Witch of the East as pictured in The Tin Woodman of Oz by L. Frank Baum.">
 We are faced with "wicked problems"<sup><small>1</small></sup> that require us to leverage multiple datasets, analytic approaches, and research philosophies in an effort to solve some of the most pressing issues facing society today
 
 To solve these wicked problems we need to clearly define problem conditions, develop flexible and open workflows, and build the tools that allow us to take advantage of the knowledge we have been developing across disciplines over the last century for data collection, analysis and assimilation.
