@@ -13,26 +13,22 @@ concept: Academic Peer Reviewed Publications and Software
 <br>
 <h1>Publications</h1>
 
-<h2>In Review</h2>
-
+<h2>Accepted</h2>
 <p class="hangingindent">
 Goring SJ, Williams JW. Effect of historic land-use and climate change on treeclimate relationships in the northern United States. <i>Ecology Letters</i>: ELE-00978-2016</p>
 
 <p class="hangingindent">
-Williams JW, Anderson DM, Carter M, Fils D, Hsu L, Goring SJ, Lehnert K, Noren A, Peters S, Smith D, Jenkins C, Olszewski T, Uhen MD. Building Big Data from the Long Tail: Community-Curated Data Resources in the Paleogeosciences. <i>GSA Today</i>.
-</p>
-
-<h2>Accepted</h2>
-<p class="hangingindent">
 Tipton J, Hooten M, Goring SJ, Williams JW. <b>accepted</b>. Reconstruction of spatio-temporal temperature from sparse historical records using robust probabilistic principal component regression. <i>Advances in Statistical Climatology, Meteorology and Oceanography</i></p>
-
-<p class="hangingindent">
- Kujawa E, Goring SJ, Dawson A, Calcote R, Grimm EC, Hotchkiss SC, Jackson ST, Lynch EA, McLachlan J, St-Jacques J-M, Umbanhowar Jr. C, Williams JW. <b>accepted</b>. The effect of anthropogenic land cover change on pollen-vegetation relationships in the American Midwest. <i>Anthropocene</i> [<a href="http://dx.doi.org/10.1016/j.ancene.2016.09.005" title="In press paper link">Early View</a>]</p>
 
 <p class="hangingindent">
 Peyron O, Combourieu-Nebout N, Brayshaw D, Goring S, Andrieu-Pone V, Desprat S, Fletcher W,  Gambin B, Ioakim C, Joannin S, Kotthoff U, Kouli K, Montade V, Pross J, Sadori L, and Magny M. <b>accepted</b>. The climate of the Mediterranean basin during the Holocene from terrestrial and marine pollen records: A model/data comparison. <i>Climate of the Past Discussions</i> <a href="http://www.clim-past-discuss.net/cp-2016-65/">Discussion Paper Link</a></p>
 
 <h2>Published</h2>
+
+<p class="hangingindent">Goring SJ, Williams JW, Mladenoff DJ, Cogbill CV, Record S, Paciorek CJ, Jackson ST, Dietze MC, Matthes JH, McLachlan JS. Novel and Lost Forests in the Upper Midwestern United States, from New Estimates of Settlement-Era Composition, Stem Density, and Biomass. <i>PLoS One</i>. 11(12): e0151935. [<a href="http://dx.doi.org/10.1371/journal.pone.0151935" title="Journal article">Open Access</a>]</p>
+
+<p class="hangingindent">
+ Kujawa E, Goring SJ, Dawson A, Calcote R, Grimm EC, Hotchkiss SC, Jackson ST, Lynch EA, McLachlan J, St-Jacques J-M, Umbanhowar Jr. C, Williams JW. <b>accepted</b>. The effect of anthropogenic land cover change on pollen-vegetation relationships in the American Midwest. <i>Anthropocene</i> [<a href="http://dx.doi.org/10.1016/j.ancene.2016.09.005" title="Journal article">Early View</a>]</p>
 
 <p class="hangingindent">
 Dawson A, Paciorek C, McLachlan J, Goring S, Williams JW, Jackson S. 2016. Quantifying pollen-vegetation relationships to reconstruct ancient forests using 19th-century forest composition and pollen data. <i>Quaternary Science Reviews</i>. <b>137</b>:156-175.</p>
@@ -77,10 +73,6 @@ Matthes, JH., Goring S, Williams JW, Dietze MC. 2016. Benchmarking historical CM
 <p class="hangingindent">Goring S, Pellatt MG, Lacourse T, Walker IR, Mathewes RW. (2009) A new methodology for reconstructing climate and vegetation from modern pollen assemblages: an example from British Columbia. <i>Journal of Biogeography</i>. <b>36</b>:626-638. [<a href="http://dx.doi.org/10.1111/j.1365-2699.2008.02021.x">Link</a>]</p>
 
 <p class="hangingindent">Vamosi J, Goring S, Kennedy B, Mayberry R, Moray C, Neame LA, Tunbridge ND, Elle E. (2007) Pollination, Floral Display, and the Ecological Correlates of Polyploidy. <i>Functional Ecosystems and Communities</i>. <b>1</b>: 1-9. [<a href="http://www.globalsciencebooks.info/JournalsSup/images/Sample/FEC_1%281%291-9.pdf">Open Access</a>]</p>
-
-### Accepted - In Revision
-
-<p class="hangingindent">Goring SJ, Williams JW, Mladenoff DJ, Cogbill CV, Record S, Paciorek CJ, Jackson ST, Dietze MC, Matthes JH, McLachlan JS. Changes in forest composition, stem density, and biomass from the settlement era (1800s) to present in the Upper Midwestern United States. <i>PLoS One</i>. [<a href="http://biorxiv.org/content/early/2015/09/11/026575">Preprint</a>], PONE-D-15-43554</p>
 
 ## SOFTWARE
 
