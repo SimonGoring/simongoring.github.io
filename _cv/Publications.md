@@ -13,19 +13,18 @@ concept: Academic Peer Reviewed Publications and Software
 <br>
 <h1>Publications</h1>
 
-<h2>Accepted</h2>
-<p class="hangingindent">
-Goring SJ, Williams JW. Effect of historic land-use and climate change on treeclimate relationships in the northern United States. <i>Ecology Letters</i>: ELE-00978-2016</p>
-
-<p class="hangingindent">
-Tipton J, Hooten M, Goring SJ, Williams JW. <b>accepted</b>. Reconstruction of spatio-temporal temperature from sparse historical records using robust probabilistic principal component regression. <i>Advances in Statistical Climatology, Meteorology and Oceanography</i></p>
-
-<p class="hangingindent">
-Peyron O, Combourieu-Nebout N, Brayshaw D, Goring S, Andrieu-Pone V, Desprat S, Fletcher W,  Gambin B, Ioakim C, Joannin S, Kotthoff U, Kouli K, Montade V, Pross J, Sadori L, and Magny M. <b>accepted</b>. The climate of the Mediterranean basin during the Holocene from terrestrial and marine pollen records: A model/data comparison. <i>Climate of the Past Discussions</i> <a href="http://www.clim-past-discuss.net/cp-2016-65/">Discussion Paper Link</a></p>
-
 <h2>Published</h2>
 
-<p class="hangingindent">Goring SJ, Williams JW, Mladenoff DJ, Cogbill CV, Record S, Paciorek CJ, Jackson ST, Dietze MC, Matthes JH, McLachlan JS. Novel and Lost Forests in the Upper Midwestern United States, from New Estimates of Settlement-Era Composition, Stem Density, and Biomass. <i>PLoS One</i>. 11(12): e0151935. [<a href="http://dx.doi.org/10.1371/journal.pone.0151935" title="Journal article">Open Access</a>]</p>
+<p class="hangingindent">
+Goring SJ, Williams JW. 2017. Effect of historic land-use and climate change on tree-climate relationships in the northern United States. <i>Ecology Letters</i>. 20:461-470. <a href="http://dx.doi.org/10.1111/ele.12747">Link</a>
+
+<p class="hangingindent">
+Tipton J, Hooten M, Goring SJ. 2017. Reconstruction of spatio-temporal temperature from sparse historical records using robust probabilistic principal component regression. <i>Advances in Statistical Climatology, Meteorology and Oceanography</i> 3:1-16. [<a href="http://www.adv-stat-clim-meteorol-oceanogr.net/3/1/2017/">Open Access</a>]</p>
+
+<p class="hangingindent">
+Peyron O, Combourieu-Nebout N, Brayshaw D, Goring S, Andrieu-Pone V, Desprat S, Fletcher W,  Gambin B, Ioakim C, Joannin S, Kotthoff U, Kouli K, Montade V, Pross J, Sadori L, and Magny M. 2017. The climate of the Mediterranean basin during the Holocene from terrestrial and marine pollen records: A model/data comparison. <i>Climate of the Past</i> [<a href="http://www.clim-past.net/13/249/2017/">Open Access</a>]</p>
+
+<p class="hangingindent">Goring SJ, Williams JW, Mladenoff DJ, Cogbill CV, Record S, Paciorek CJ, Jackson ST, Dietze MC, Matthes JH, McLachlan JS. 20176. Novel and Lost Forests in the Upper Midwestern United States, from New Estimates of Settlement-Era Composition, Stem Density, and Biomass. <i>PLoS One</i>. 11(12): e0151935. [<a href="http://dx.doi.org/10.1371/journal.pone.0151935" title="Journal article">Open Access</a>]</p>
 
 <p class="hangingindent">
  Kujawa E, Goring SJ, Dawson A, Calcote R, Grimm EC, Hotchkiss SC, Jackson ST, Lynch EA, McLachlan J, St-Jacques J-M, Umbanhowar Jr. C, Williams JW. <b>accepted</b>. The effect of anthropogenic land cover change on pollen-vegetation relationships in the American Midwest. <i>Anthropocene</i> [<a href="http://dx.doi.org/10.1016/j.ancene.2016.09.005" title="Journal article">Early View</a>]</p>
