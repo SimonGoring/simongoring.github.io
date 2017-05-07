@@ -4,6 +4,14 @@ title: Research Publications
 concept: Academic Peer Reviewed Publications and Software
 ---
 
+<style>
+	p.hangingindent:hover{
+
+	  background:#cccccc
+
+	}
+</style>
+
 <h1>Alternative Publication Metrics (AltMetrics)</h1>
 
 <hr>
@@ -24,14 +32,14 @@ Goring SJ, Williams JW. 2017. Effect of historic land-use and climate change on 
 Tipton J, Hooten M, Goring SJ. 2017. Reconstruction of spatio-temporal temperature from sparse historical records using robust probabilistic principal component regression. <i>Advances in Statistical Climatology, Meteorology and Oceanography</i> 3:1-16. [<a href="http://www.adv-stat-clim-meteorol-oceanogr.net/3/1/2017/">Open Access</a>]</p>
 
 <p class="hangingindent">
-Peyron O, Combourieu-Nebout N, Brayshaw D, Goring S, Andrieu-Pone V, Desprat S, Fletcher W,  Gambin B, Ioakim C, Joannin S, Kotthoff U, Kouli K, Montade V, Pross J, Sadori L, and Magny M. 2017. The climate of the Mediterranean basin during the Holocene from terrestrial and marine pollen records: A model/data comparison. <i>Climate of the Past</i> [<a href="http://www.clim-past.net/13/249/2017/">Open Access</a>]</p>
+Peyron O, Combourieu-Nebout N, Brayshaw D, Goring S, Andrieu-Pone V, Desprat S, Fletcher W,  Gambin B, Ioakim C, Joannin S, Kotthoff U, Kouli K, Montade V, Pross J, Sadori L, and Magny M. 2017. The climate of the Mediterranean basin during the Holocene from terrestrial and marine pollen records: A model/data comparison. <i>Climate of the Past</i> <b>13</b>:249-265 [<a href="http://www.clim-past.net/13/249/2017/">Open Access</a>]</p>
 
 <h3>2016 Publications</h3>
 
-<p class="hangingindent">Goring SJ, Williams JW, Mladenoff DJ, Cogbill CV, Record S, Paciorek CJ, Jackson ST, Dietze MC, Matthes JH, McLachlan JS. 2016. Novel and Lost Forests in the Upper Midwestern United States, from New Estimates of Settlement-Era Composition, Stem Density, and Biomass. <i>PLoS One</i>. 11(12): e0151935. [<a href="http://dx.doi.org/10.1371/journal.pone.0151935" title="Journal article">Open Access</a>]</p>
+<p class="hangingindent">Goring SJ, Williams JW, Mladenoff DJ, Cogbill CV, Record S, Paciorek CJ, Jackson ST, Dietze MC, Matthes JH, McLachlan JS. 2016. Novel and Lost Forests in the Upper Midwestern United States, from New Estimates of Settlement-Era Composition, Stem Density, and Biomass. <i>PLoS One</i>. <b>11</b>: e0151935. [<a href="http://dx.doi.org/10.1371/journal.pone.0151935" title="Journal article">Open Access</a>]</p>
 
 <p class="hangingindent">
- Kujawa E, Goring SJ, Dawson A, Calcote R, Grimm EC, Hotchkiss SC, Jackson ST, Lynch EA, McLachlan J, St-Jacques J-M, Umbanhowar Jr. C, Williams JW. <b>accepted</b>. The effect of anthropogenic land cover change on pollen-vegetation relationships in the American Midwest. <i>Anthropocene</i> [<a href="http://dx.doi.org/10.1016/j.ancene.2016.09.005" title="Journal article">Early View</a>]</p>
+ Kujawa E, Goring SJ, Dawson A, Calcote R, Grimm EC, Hotchkiss SC, Jackson ST, Lynch EA, McLachlan J, St-Jacques J-M, Umbanhowar Jr. C, Williams JW. <b>accepted</b>. The effect of anthropogenic land cover change on pollen-vegetation relationships in the American Midwest. <i>Anthropocene</i> <b>15</b>:60-71. [<a href="http://dx.doi.org/10.1016/j.ancene.2016.09.005" title="Journal article">Early View</a>]</p>
 
 <p class="hangingindent">
 Dawson A, Paciorek C, McLachlan J, Goring S, Williams JW, Jackson S. 2016. Quantifying pollen-vegetation relationships to reconstruct ancient forests using 19th-century forest composition and pollen data. <i>Quaternary Science Reviews</i>. <b>137</b>:156-175.</p>
