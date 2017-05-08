@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="35.814606mm"
+   height="36.343098mm"
+   viewBox="0 0 126.90215 128.77476"
+   id="svg9089"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="commit_sjg.svg">
+  <title
+     id="title9780">Markdown Document</title>
+  <defs
+     id="defs9091">
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Sstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4220"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
+         transform="scale(0.2) translate(6,0)" />
+    </marker>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter9666">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood9668" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite9670" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur9672" />
+      <feOffset
+         dx="1.3"
+         dy="1.6"
+         result="offset"
+         id="feOffset9674" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite9676" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter9678">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood9680" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite9682" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur9684" />
+      <feOffset
+         dx="1.3"
+         dy="1.6"
+         result="offset"
+         id="feOffset9686" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite9688" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter9690">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood9692" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite9694" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur9696" />
+      <feOffset
+         dx="1.3"
+         dy="1.6"
+         result="offset"
+         id="feOffset9698" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite9700" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter10584">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood10586" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite10588" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur10590" />
+      <feOffset
+         dx="1.3"
+         dy="1.6"
+         result="offset"
+         id="feOffset10592" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite10594" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.5561224"
+     inkscape:cx="85"
+     inkscape:cy="43"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1859"
+     inkscape:window-height="1056"
+     inkscape:window-x="61"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata9094">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Markdown Document</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+        <dc:date>May 6, 2017</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Simon Goring</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>CC-BY-3.0</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:language>EN</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Markdown</rdf:li>
+            <rdf:li>Document</rdf:li>
+            <rdf:li>SVG</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Simon Goring</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:description>A vector image representing a Markdown document</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-113.97249,-87.627367)">
+    <text
+       sodipodi:linespacing="125%"
+       id="text9639"
+       y="206.24208"
+       x="104.71329"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter9678)"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;line-height:125%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         y="206.24208"
+         x="104.71329"
+         id="tspan9641"
+         sodipodi:role="line">{</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text9639-3"
+       y="206.24208"
+       x="186.15059"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter9690)"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;line-height:125%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         y="206.24208"
+         x="186.15059"
+         id="tspan9641-9"
+         sodipodi:role="line">}</tspan></text>
+    <path
+       style="opacity:0.8;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:7.00000083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 175.31475,190.31035 0,23.59366"
+       id="path10031"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:0.7;fill:#ffffff;fill-opacity:1;stroke:#202020;stroke-width:4.00000048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.96450227;stroke-opacity:1;filter:url(#filter10584)"
+       d="m 164.28304,90.78557 c -7.75794,8.2e-5 -14.04693,5.994386 -14.04688,13.38867 0.003,0.12245 0.007,0.24486 0.0137,0.36719 -1.47275,-0.52912 -3.04056,-0.80267 -4.62304,-0.80664 -7.03008,8.1e-4 -12.72859,5.20878 -12.72852,11.63281 0.004,0.96265 0.13823,1.92115 0.40039,2.85352 0,0 -12.21682,-3.76756 -15.98437,0 -2.74188,2.74188 0,11.63281 0,11.63281 l 100.96289,0 c 0,0 2.74188,-8.89093 0,-11.63281 -4.53727,-4.53727 -19.25,0 -19.25,0 0.9624,-1.77936 1.46507,-3.72994 1.4707,-5.70703 5.1e-4,-7.27327 -6.58326,-13.169725 -14.70508,-13.169926 -2.75732,0.0022 -5.4584,0.698656 -7.79492,2.009766 -1.39263,-6.160037 -7.10352,-10.560727 -13.71484,-10.56836 z"
+       id="path10571"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccaccaccccc" />
+    <path
+       style="opacity:0.8;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:7.00000095;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Sstart)"
+       d="m 175.31475,135.05035 0,27.02927"
+       id="path10031-0"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="opacity:0.8;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.00000048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.96450227;stroke-opacity:1"
+       id="path10027"
+       cx="175.31474"
+       cy="175.96046"
+       r="12.806815" />
+  </g>
+</svg>

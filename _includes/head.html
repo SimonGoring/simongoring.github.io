@@ -9,4 +9,34 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Person",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Vancouver",
+        "addressRegion": "BC",
+        "postalCode": "V5N4E8"
+      },
+      "colleague": [
+        "http://www.geography.wisc.edu/faculty/williams/lab/People.html",
+        "http://www.andriadawson.org"
+      ],
+      "email": "mailto:goring@wisc.edu",
+      "image": "https://i1.rgstatic.net/ii/profile.image/AS%3A321585720823810%401453683418273_l/Simon_Goring.png",
+      "jobTitle": "Assistant Scientist",
+      "name": "Simon Goring",
+      "familyName": "Goring",
+      "givenName": "Simon",
+      "worksFor": "University of Wisconsin - Madison",
+      "alumniOf": ["Simon Fraser University", "University of Northern British Columbia", "University of Wisconsin - Madison"],
+      "url": "http://www.goring.org",
+      "sameAs" : [ "http://www.orcid.org/0000-0002-2700-4605#person",
+      "http://twitter.com/sjGoring",
+      "http://github.com/SimonGoring"]
+    }
+  </script>
+
 </head>
