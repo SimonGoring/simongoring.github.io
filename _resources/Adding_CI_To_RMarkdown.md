@@ -1,5 +1,6 @@
 ---
 layout: page
+res_class: R
 title: Adding CI To RMarkdown Documents
 concept: Using continuous integration with RMarkdown documents.
 ---

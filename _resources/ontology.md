@@ -1,5 +1,6 @@
 ---
 title: Ontology in Earth Science
+res_class: Misc
 concept: Thoughts about ontology systems and their applicability in the Earth Sciences
 layout: page
 ---

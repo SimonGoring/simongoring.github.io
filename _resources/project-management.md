@@ -1,5 +1,6 @@
 ---
 layout: page
+res_class: GitHub
 title: Collaborative Models in GitHub
 concept: How to choose between three models of collaboration on GitHub, and how to implement each.
 ---

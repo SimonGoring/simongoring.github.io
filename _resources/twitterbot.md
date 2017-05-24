@@ -1,5 +1,6 @@
 ---
 layout: page
+res_class: Development
 title: Building a Python Twitter-bot
 concept: Building outreach tools & learning programming languages from concepts.
 ---

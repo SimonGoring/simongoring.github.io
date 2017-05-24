@@ -1,8 +1,8 @@
 ---
+layout: page
+res_class: R
 title: Style your R
 concept: A broader vignette of the functionality in the R neotoma package.
-layout: page
-section: R Coding
 ---
 
 [Advanced R](http://adv-r.had.co.nz/) by Hadley Wickham is a great resource for people working with R.  It provides a good overview and a much deeper dive into some components of functionality within the R programming language.  This short article goes into some of the major concepts in the [Style section](http://adv-r.had.co.nz/Style.html) and builds on them, along with my own suggestions.

@@ -1,5 +1,6 @@
 ---
 layout: page
+res_class: Development
 title: Building a Basic Jekyll Website
 concept: What I've done & how I did it.
 ---

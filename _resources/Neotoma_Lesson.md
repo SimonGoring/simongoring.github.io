@@ -1,5 +1,6 @@
 ---
 layout: page
+res_class: R
 title: The Neotoma Database - Tools
 concept: Learning how to explore hypotheses with Neotoma tools.
 ---
