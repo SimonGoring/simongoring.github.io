@@ -39,7 +39,7 @@ Peyron O, Combourieu-Nebout N, Brayshaw D, Goring S, Andrieu-Pone V, Desprat S, 
 <p class="hangingindent">Goring SJ, Williams JW, Mladenoff DJ, Cogbill CV, Record S, Paciorek CJ, Jackson ST, Dietze MC, Matthes JH, McLachlan JS. 2016. Novel and Lost Forests in the Upper Midwestern United States, from New Estimates of Settlement-Era Composition, Stem Density, and Biomass. <i>PLoS One</i>. <b>11</b>: e0151935. [<a href="http://dx.doi.org/10.1371/journal.pone.0151935" title="Journal article">Open Access</a>]</p>
 
 <p class="hangingindent">
- Kujawa E, Goring SJ, Dawson A, Calcote R, Grimm EC, Hotchkiss SC, Jackson ST, Lynch EA, McLachlan J, St-Jacques J-M, Umbanhowar Jr. C, Williams JW. <b>accepted</b>. The effect of anthropogenic land cover change on pollen-vegetation relationships in the American Midwest. <i>Anthropocene</i> <b>15</b>:60-71. [<a href="http://dx.doi.org/10.1016/j.ancene.2016.09.005" title="Journal article">Early View</a>]</p>
+ Kujawa E, Goring SJ, Dawson A, Calcote R, Grimm EC, Hotchkiss SC, Jackson ST, Lynch EA, McLachlan J, St-Jacques J-M, Umbanhowar Jr. C, Williams JW. <b>2017</b>. The effect of anthropogenic land cover change on pollen-vegetation relationships in the American Midwest. <i>Anthropocene</i> <b>15</b>:60-71. [<a href="http://dx.doi.org/10.1016/j.ancene.2016.09.005" title="Journal article">Early View</a>]</p>
 
 <p class="hangingindent">
 Dawson A, Paciorek C, McLachlan J, Goring S, Williams JW, Jackson S. 2016. Quantifying pollen-vegetation relationships to reconstruct ancient forests using 19th-century forest composition and pollen data. <i>Quaternary Science Reviews</i>. <b>137</b>:156-175.</p>
