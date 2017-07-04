@@ -12,10 +12,8 @@ concept: Academic Peer Reviewed Publications and Software
 	}
 </style>
 
-<h1>Alternative Publication Metrics (AltMetrics)</h1>
-
 <hr>
-<br>
+<h1>Alternative Publication Metrics (AltMetrics)</h1>
 [<a href="https://impactstory.org/u/0000-0002-2700-4605" title="AltMetric Links">ImpactStory</a>] - [<a href="http://scholar.google.com/citations?user=Q3ekwgkAAAAJ&hl=en" title="Google Scholar homepage">Google Citations</a>] - [<a href="http://orcid.org/0000-0002-2700-4605" title="Unique Researcher Identifier">ORCiD</a>]
 <hr>
 <br>
