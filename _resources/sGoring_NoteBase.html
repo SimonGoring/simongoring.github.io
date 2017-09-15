@@ -1,0 +1,241 @@
+---
+title: rOpenSci Fellowship Application
+res_class: R
+concept: Application for rOpenSci's Fellowship program to construct a workflow management system.
+layout: page-no-titles
+section: R Coding
+---
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<style type="text/css">
+		@import url('https://fonts.googleapis.com/css?family=EB+Garamond|Raleway');
+		p.western { font-family: "EB Garamond"; font-size: 11pt }
+		h2 { margin-top: 0cm; margin-bottom: 0.2cm; direction: ltr; font-variant: normal; color: #000000; line-height: 100%; text-align: left; page-break-inside: avoid; orphans: 2; widows: 2; text-decoration: none }
+		h2.western { font-family: "Raleway"; font-size: 12pt; font-style: normal }
+		h2.cjk { font-family: "Arial"; font-size: 16pt; font-style: normal; font-weight: normal }
+		h2.ctl { font-family: "Arial"; font-size: 16pt; font-weight: normal }
+		h1 { margin-bottom: 0.21cm; direction: inherit }
+		h1.western { font-family: "Raleway"; font-size: 14pt }
+		h1.cjk { font-family: "Noto Sans CJK SC Regular"; font-size: 18pt }
+		h1.ctl { font-family: "FreeSans"; font-size: 18pt; font-weight: demi-bold }
+		p.hanging-indent-western { margin-left: 1cm; text-indent: -0.5cm; font-family: "EB Garamond"; font-size: 11pt }
+		p.hanging-indent-cjk { margin-left: 1cm; text-indent: -0.5cm; font-size: 10pt }
+		p.hanging-indent-ctl { margin-left: 1cm; text-indent: -0.5cm }
+		a:link { so-language: zxx }
+	</style>
+</head>
+<body lang="en-CA" dir="ltr">
+<font face="Raleway"><font size="5" style="font-size: 18pt"><b>rNoteBase:
+Citable Workflows within the Academic Web</b></font></font></p>
+<p align="left" style="margin-top: 0.11cm; margin-bottom: 0.21cm; font-variant: small-caps; line-height: 100%; page-break-after: avoid">
+</span><font color="#666666"><font face="Raleway"><font size="3" style="font-size: 12pt">Simon
+Goring – University of Wisconsin – Madison</font></font></font></p>
+<h1 class="western">Problem Statement</h1>
+<p class="western">Complexity is a significant hurdle to user
+adoption of new tools and workflows (Kim and Crowston, 2011).
+Complexity also leads to heterogeneity in data processing and
+archiving practices (workflows), as best practices are often
+culturally transmitted. In the “long tail” of science, data
+(which includes scientific workflows) tend to be collected and
+generated for project-specific purposes, with greater emphasis on
+sharing within research groups than with the public (Wallis <i>et
+al</i>., 2013).  Heterogeneity can then limit our ability to
+undertake synthesis work, and complicates the transmission of
+knowledge, particularly when disciplinary communities are small and
+highly distributed, as in the paleogeosciences. Open publication of
+results and data may be insufficient for limiting these challenges
+given the complexity of many modern workflows, thus a disparity will
+continue to exist between the standards for publication, with
+extensive peer review, and the standards for data archiving (Lee and
+Bietz, 2009).</p>
+<p class="western">To solve the challenge of best-practices
+heterogeneity around new tools &amp; techniques, I propose a system,
+rNoteBase, to archive and expose workflows generated using Rmarkdown
+(focusing on API-based tools supported by rOpenSci). Documents linked
+to rNoteBase can be annotated, tagged with keywords, and edited
+through existing version control platforms (e.g. GitHub). rNoteBase
+will not host the documents directly, rather linking to the documents
+from a code repository, this helps balance centralizing tendencies of
+technology with the distributed nature of modern scientific
+collaboration (Lynch, 2008).</p>
+<p class="western">The rNoteBase will assist researchers move toward
+greater transparency by facilitating reproducibility and increasing
+the competency of researchers for core technical skills. One barrier
+for code sharing is the sense that code or data is too messy (Barnes,
+2010). By providing researchers with tools, written with scientific
+and technical best practices in the forefront, we encourage
+reproducibility. By basing initial generation of this system around
+the API-focused rOpenSci packages we hope to foster partnerships
+between data creators, data repositories, and data users.</p>
+<p class="western">This project was originally a component of the NSF
+funded Throughout proposal but was removed due to funding
+constraints.  It is my belief that the rOpenSci fellowship would
+provide the opportunity to build a working prototype of this platform
+in connection with work underway in the Throughput proposal that is
+designed to link resources across the geoscientific web, as part of
+the EarthCube program (<a href="http://earthcube.org/">http://earthcube.org</a>).</p>
+<h1 class="western">Proposed Activities and Outcomes</h1>
+<p class="western">rNoteBase will ensure (1) that workflows undergo a
+vetting process; (2) that end-users are assured that web-centric
+methods are reliable; (3) that workflows contained within the
+notebase are discoverable, and (4) that credit can be provided to
+rNoteBase contributors.  To accomplish this, the rNoteBase proposal
+consists of four elements:</p>
+<ol>
+	<li/>
+<p class="western" style="line-height: 120%; background: transparent; page-break-before: auto">
+	A <b>Peer Review System</b> for API-centered scientific workflows
+	that leverages the existing rOpenSci peer-review system (e.g.,
+	<a href="https://github.com/ropensci/onboarding">https://github.com/ropensci/onboarding</a>),
+	but remains separate and domain-specific to avoid overburdening the
+	existing system.</p>
+	<li/>
+<p class="western" style="line-height: 120%; background: transparent">
+	A <b>C</b><b>ontinuous </b><b>I</b><b>ntegration </b><b>S</b><b>ystem</b>
+	to check notebooks regularly (<i>cf</i>., <a href="http://www.goring.org/resources/Adding_CI_To_RMarkdown.html">CI
+	with Rmarkdown</a>), to provide failure notification to notebook
+	developers and, if requested, API maintainers.</p>
+	<li/>
+<p class="western" style="line-height: 120%; background: transparent">
+	A <b>U</b><b>ser </b><b>I</b><b>nterface</b>, leveraging RMarkdown
+	YAML headers to help sort and manage notebooks, providing search
+	capacities and allowing discovery by keyword, discipline, R package,
+	or author.  The intention is to construct a system using an
+	API-first philosophy, with vue.js to support the UI development. 
+	This rNoteBase would be able to support its own rOpenSci package.</p>
+	<li/>
+<p class="western" style="line-height: 120%; background: transparent">
+	A <b>DOI </b><b>Management System</b> to be supported initially
+	through the University of Wisconsin’s Library System and its
+	contract with DataCite along with data citations for the workflow
+	products to support recognition.</p>
+</ol>
+<p class="western"><span id="Frame1" dir="ltr" style="float: left; width: 10cm; height: 7.57cm; border: none; padding: 0cm; background: #ffffff">
+	<p style="margin-top: 0.21cm; margin-bottom: 0.21cm; font-style: normal; line-height: 100%">
+	<img src="sGoring_NoteBase_html_9198cc35357c5c92.png" name="Image1" align="bottom" width="100%" border="0"/>
+</p>
+</span><br clear="left"><br/>
+<br/>
+
+</p>
+<p style="margin-bottom: 0cm; font-style: normal; line-height: 100%; background: transparent">
+<font size="2" style="font-size: 10pt">Figure 1: Visual
+representation of the elements within the rNoteBase ecosystem. 
+Individual elements are described further in the proposal.</font></p>
+<p style="margin-bottom: 0cm; font-style: normal; line-height: 100%; background: transparent">
+<br/>
+
+</p>
+<p class="western">The implementation plan for rNoteBase differs from
+the more common development of end-user tools in that it will provide
+descriptive, citable workflow resources for researchers engaged in
+domain research.  This ensures that notebook authors recieve academic
+credit through citations, and that users receive support by having
+peer-reviewed general workflows to use as a type of “cookbook”.  
+</p>
+<h2 class="western">Populating the Resource</h2>
+<p class="western">Workflows developed with the Neotoma
+Paleoecological Database (<a href="http://neotomadb.org/">http://neotomadb.org</a>)
+include questions critical to the paleogeosciences broadly, such as
+chronology construction using Bayesian tools (e.g., based on
+<a href="http://bit.ly/2mkAVCd"><font color="#1155cc"><u>http://bit.ly/2mkAVCd</u></font></a>),
+age-uncertain analysis of paleogeoscientific data (using GeoChronR
+tools; <span style="font-weight: normal">McKay</span>), sediment core
+alignment using affine and splice, geospatial-temporal mapping of
+lake water chemistry, or sediment geochemistry from EarthChem,
+pollen-based climate reconstruction (e.g., <a href="http://bit.ly/2m1clUx"><font color="#1155cc"><u>http://bit.ly/2m1clUx</u></font></a><font color="#a3aaae">)</font>,
+vegetation reconstruction using pollen, cluster analysis of tephra
+events, or sample mapping and correlation of paleo-proxies.  We will
+use these as the initial basis for document links, metadata
+harvesting and annotation.  As the platform approaches maturity we
+wil solicit additional workflows through social media channels and
+relationships with partners in the EarthCube program as part of the
+EarthCube Engagement Committee’s work.  We will also work to
+harvest information from existing package vignettes that perform
+discipline-related tasks.</p>
+<h1 class="western">Tentative Timeline</h1>
+<p class="western">This proposal would result in several deliverable
+products.  All code for the prototype would be available on GitHub
+under an MIT License.  Content would be dynamically linked, and as
+such, the rNoteBase would not host markdown documents itself.</p>
+<h2 class="western">First Three Months</h2>
+<ul>
+	<li/>
+<p class="western" style="line-height: 120%; background: transparent">
+	Standards for data objects defined from DublinCore, WC3, schema.org
+	and other ontologies</p>
+	<li/>
+<p class="western" style="line-height: 120%; background: transparent">
+	Data model for DOI atomic units &amp; data citation elements</p>
+</ul>
+<h2 class="western">First Six Months</h2>
+<ul>
+	<li/>
+<p class="western">Prototype neo4j graph database linking
+	RMarkdown documents to user profiles (e.g., ORCiD), peer reviewers,
+	API resources and R package information</p>
+	<li/>
+<p class="western">API developed using vue.js to query the
+	graph database and return content based on rNoteBase workflow
+	attributes (<i>e.g.</i>, keywords, packages used, data types
+	accessed, authors)</p>
+</ul>
+<h2 class="western">First Nine Months</h2>
+<ul>
+	<li/>
+<p class="western">Peer review process outlined, discussions
+	with potential partner organizations (Ubiquity Press, Earth Science
+	Information Partners – currently engaged in development of an
+	earth science preprint service)</p>
+</ul>
+<h2 class="western">First Year</h2>
+<ul>
+	<li/>
+<p class="western" style="line-height: 120%; background: transparent">
+	A web application developed using vue.js</p>
+</ul>
+<h1 class="western">Biography and Budget</h1>
+<p class="western">Simon Goring (<a href="http://goring.org/">http://goring.org</a>)
+is an Assistant Scientist at the University of Wisconsin-Madison,
+with PI status.  He is the lead author of the neotoma R package and
+the IT lead for the Neotoma Paleoecological Database, as well as a
+member of the Leadership Council for the NSF’s EarthCube Program.</p>
+<p class="western">This funding would support development time for
+<b>Goring</b> (approximately 2 months in the 2017-2018 calendar year)
+and for an unspecified web developer, working in collaboration with
+<b>Goring</b>.  We aim to leverage resources from the NSF Throughput
+grant to help undertake a workshop at the University of Wisconsin in
+the summer of 2018 that would focus on workflow development for the
+paleogeosciences.  This would provide further support to the
+rNoteBase proposal by adding content and acting as an opportunity to
+beta-test the platform.</p>
+<h1 class="western" style="page-break-before: always">References</h1>
+<p class="hanging-indent-western" style="margin-left: 0.5cm; line-height: 120%; background: transparent; page-break-before: auto">
+Barnes, N. (2010). Publish your computer code: it is good enough.
+Nature, 467: 753. doi:<a href="https://doi.org/10.1038/467753a">10.1038/467753a</a>
+</p>
+<p class="hanging-indent-western" style="margin-left: 0.5cm; line-height: 120%; background: transparent">
+Kim, Y., &amp; Crowston, K. (2011). Technology adoption and use
+theory review for studying scientists' continued use of
+cyber‐infrastructure. Proceedings of the Association for
+Information Science and Technology, 48:1-10.
+doi:<a href="http://dx.doi.org/10.1002/meet.2011.14504801197">10.1002/meet.2011.14504801197</a></p>
+<p class="hanging-indent-western" style="margin-left: 0.5cm; line-height: 120%; background: transparent">
+Lee, C. P., &amp; Bietz, M. (2009). Barriers to the adoption of new
+collaboration technologies for scientists. In: ACM Conference on
+Computer-Human Interaction (CHI). [<a href="http://www.matthewbietz.org/blog/wp-content/uploads/chi2009-scientificcollaborationsposition.pdf">link</a>]</p>
+<p class="hanging-indent-western" style="margin-left: 0.5cm; line-height: 120%; background: transparent">
+Lynch, C. (2008). The institutional challenges of cyberinfrastructure
+and e-research. Educause Review, 43: 74-88. [<a href="https://eric.ed.gov/?redir=http%3A%2F%2Fconnect.educause.edu%2FLibrary%2FEDUCAUSE%2BReview%2FEDUCAUSEReviewMagazineVol%2F47438">link</a>]</p>
+<p class="hanging-indent-western" style="margin-left: 0.5cm; line-height: 120%; background: transparent">
+Wallis, J. C., Rolando, E., &amp; Borgman, C. L. (2013). If we share
+data, will anyone use them? Data sharing and reuse in the long tail
+of science and technology. PloS one, 8(7), e67332. 
+doi:<a href="https://doi.org/10.1371/journal.pone.0067332">10.1371/journal.pone.0067332</a>
+</p>
+</body>
+</html>
