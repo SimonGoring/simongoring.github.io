@@ -21,6 +21,11 @@ concept: Academic Peer Reviewed Publications and Software
 
 <h2>Published</h2>
 
+<h3>2018 Publications</h3>
+
+<p class="hangingindent">
+<small>Williams JW, Grimm EC, Blois JL, Charles DF, Davis EB, Goring SJ, Graham RW, Smith AJ, Anderson M, Arroyo-Cabrales J, Ashworth AC, Betancourt JL, Bills BW, Booth RK, Buckland PI, Curry BB, Giesecke T, Jackson ST, Latorre C, Nichols J, Purdum T, Roth RE, Stryker M, Takahara H. 2018. The Neotoma Paleoecology Database, a multiproxy, international, community-curated data resource. <i>Quaternary Research</i>, 89:156-177. [<a href="https://doi.org/10.1017/qua.2017.105">Open Access Link</a></small>]</p>
+
 <h3>2017 Publications</h3>
 
 <p class="hangingindent">

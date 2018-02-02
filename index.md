@@ -26,9 +26,14 @@ Domain specific knowledge is important in managing research questions or looking
 
 <div class="new_papers">
 <p class="hangingindent">
+<small>Williams JW, Grimm EC, Blois JL, Charles DF, Davis EB, Goring SJ, Graham RW, Smith AJ, Anderson M, Arroyo-Cabrales J, Ashworth AC, Betancourt JL, Bills BW, Booth RK, Buckland PI, Curry BB, Giesecke T, Jackson ST, Latorre C, Nichols J, Purdum T, Roth RE, Stryker M, Takahara H. 2018. The Neotoma Paleoecology Database, a multiproxy, international, community-curated data resource. <i>Quaternary Research</i>, 89:156-177. [<a href="https://doi.org/10.1017/qua.2017.105">Open Access Link</a></small>]</p>
+
+<p class="hangingindent">
+<small>Goring SJ, Whitney KS, Jacob A, Bruna E, Poisot T. 2017. Making Scientific Content More Accessible. <i>Authorea Preprint</i>. [<a href="http://dx.doi.org/10.22541/au.150844289.92609826">Open Access Link</a></small>]</p>
+
+<p class="hangingindent">
 <small>Goring SJ, Williams JW. 2017. Effect of historic land-use and climate change on tree-climate relationships in the northern United States. <i>Ecology Letters</i>. 20:461-470. [<a href="http://dx.doi.org/10.1111/ele.12747">Link</a></small>]</p>
 
-<p class="hangingindent"><small>Goring SJ, Williams JW, Mladenoff DJ, Cogbill CV, Record S, Paciorek CJ, Jackson ST, Dietze MC, Matthes JH, McLachlan JS. Novel and Lost Forests in the Upper Midwestern United States, from New Estimates of Settlement-Era Composition, Stem Density, and Biomass. <i>PLoS One</i>. 11(12): e0151935. [<a href="http://dx.doi.org/10.1371/journal.pone.0151935" title="Journal article">Open Access</a>]</small></p>
 </div>
 
 <b>See these <a href="http://goring.org/resources" style="color:black">resources</a>!</b>:
