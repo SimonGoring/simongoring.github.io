@@ -5,9 +5,6 @@ title: Adding CI To RMarkdown Documents
 concept: Using continuous integration with RMarkdown documents.
 ---
 
-<style>
-h1:
-</style>
 
 By: Simon Goring
 

@@ -1,0 +1,31 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond|Raleway');
+
+p.western { font-family: "EB Garamond"; font-size: 11pt }
+
+h2 { margin-top: 0cm; margin-bottom: 0.2cm; direction: ltr; font-variant: normal; color: #000000; line-height: 100%; text-align: left; page-break-inside: avoid; orphans: 2; widows: 2; text-decoration: none }
+
+h2.western { font-family: "Raleway"; font-size: 12pt; font-style: normal }
+
+h2.cjk { font-family: "Arial"; font-size: 16pt; font-style: normal; font-weight: normal }
+
+h2.ctl { font-family: "Arial"; font-size: 16pt; font-weight: normal }
+
+h1 { margin-bottom: 0.21cm; direction: inherit }
+
+h1.western { font-family: "Raleway"; font-size: 14pt }
+
+h1.cjk { font-family: "Noto Sans CJK SC Regular"; font-size: 18pt }
+
+h1.ctl { font-family: "FreeSans"; font-size: 18pt; font-weight: demi-bold }
+
+p.hanging-indent-western { margin-left: 1cm; text-indent: -0.5cm; font-family: "EB Garamond"; font-size: 11pt }
+
+p.hanging-indent-cjk { margin-left: 1cm; text-indent: -0.5cm; font-size: 10pt }
+
+p.hanging-indent-ctl { margin-left: 1cm; text-indent: -0.5cm }
+
+a:link { so-language: zxx }

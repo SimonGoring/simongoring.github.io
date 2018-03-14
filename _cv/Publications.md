@@ -24,7 +24,10 @@ concept: Academic Peer Reviewed Publications and Software
 <h3>2018 Publications</h3>
 
 <p class="hangingindent">
-<small>Williams JW, Grimm EC, Blois JL, Charles DF, Davis EB, Goring SJ, Graham RW, Smith AJ, Anderson M, Arroyo-Cabrales J, Ashworth AC, Betancourt JL, Bills BW, Booth RK, Buckland PI, Curry BB, Giesecke T, Jackson ST, Latorre C, Nichols J, Purdum T, Roth RE, Stryker M, Takahara H. 2018. The Neotoma Paleoecology Database, a multiproxy, international, community-curated data resource. <i>Quaternary Research</i>, 89:156-177. [<a href="https://doi.org/10.1017/qua.2017.105">Open Access Link</a></small>]</p>
+<small>Goring SJ, Whitney KS, Jacob A. 2018. Accessibility is imperative for inclusion. <i>Frontiers in Ecology and the Environment</i>. <b>16</b>: 63.</small></p>
+
+<p class="hangingindent">
+<small>Williams JW, Grimm EC, Blois JL, Charles DF, Davis EB, Goring SJ, Graham RW, Smith AJ, Anderson M, Arroyo-Cabrales J, Ashworth AC, Betancourt JL, Bills BW, Booth RK, Buckland PI, Curry BB, Giesecke T, Jackson ST, Latorre C, Nichols J, Purdum T, Roth RE, Stryker M, Takahara H. 2018. The Neotoma Paleoecology Database, a multiproxy, international, community-curated data resource. <i>Quaternary Research</i>, 89:156-177. [<a href="https://doi.org/10.1017/qua.2017.105">Open Access Link</a>]</small></p>
 
 <h3>2017 Publications</h3>
 
@@ -106,6 +109,8 @@ Matthes, JH., Goring S, Williams JW, Dietze MC. 2016. Benchmarking historical CM
 
 
 <h2>COMMENTS, BOOK CHAPTERS & OTHER ARTICLES</h2>
+
+<p class="hangingindent">Goring SJ, Whitney KS, Jacob A, Bruna E, Poisot T. 2017. Making Scientific Content More Accessible. <i>Authorea Preprint</i>. [<a href="http://dx.doi.org/10.22541/au.150844289.92609826">Open Access Link</a>]</p>
 
 <p class="hangingindent">Keenlyside K, Nantel P, Pellatt M, Goring S, Gray P.  (2014) Chapter 6: Natural environment and biodiversity.  In: From Impacts to Adaptation – Assessment Update.  Natural Resources Canada. [<a href="http://www.nrcan.gc.ca/sites/www.nrcan.gc.ca/files/earthsciences/pdf/assess/2014/pdf/Chapter6-Biodiversity_Eng.pdf">Open Access</a>]</p>
 
