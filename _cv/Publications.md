@@ -5,11 +5,7 @@ concept: Academic Peer Reviewed Publications and Software
 ---
 
 <style>
-	p.hangingindent:hover{
 
-	  background:#dddddd
-
-	}
 </style>
 
 <hr>
