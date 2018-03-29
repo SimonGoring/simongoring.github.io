@@ -22,7 +22,7 @@ ImpactStory - <a href="https://impactstory.org/u/0000-0002-2700-4605">AltMetrics
 </tr>
 </table>
 
-<hr style="margin-top: 10px; margin-bottom: 20px">
+<div class="bounder">
 
 {% for cvs in site.cv %}
   <div class="col-lg-3 col-md-6 text-center">
@@ -32,7 +32,7 @@ ImpactStory - <a href="https://impactstory.org/u/0000-0002-2700-4605">AltMetrics
   </div>
 {% endfor %}
 
-<hr style="margin-top: 10px; margin-bottom: 20px">
+</div>
 
 My academic research has been cited over 500 times. My non-academic publications have been used as the basis of educational modules, internal project development, and have helped spur engagement of individuals from under-represented STEM backgrounds.
 

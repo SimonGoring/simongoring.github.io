@@ -3,9 +3,10 @@ layout: default
 weight: 1
 ---
 
+<img src="images/Wicked_East.png" class = "floatleft" title="The Wicked Witch of the East as pictured in The Tin Woodman of Oz by L. Frank Baum.">
+
 <h1>Solving Wicked Problems</h1>
 
-<img src="images/Wicked_East.png" style="float:right; margin-left:10px" title="The Wicked Witch of the East as pictured in The Tin Woodman of Oz by L. Frank Baum.">
 We are faced with "wicked problems"<sup><small>1</small></sup> requiring us to find <b>cross-disciplinary answers</b> to solve some of the most pressing issues facing society today.
 
 To solve these wicked problems we need to clearly define problem conditions, <b>develop flexible and open workflows</b>, and build the tools that allow us to take advantage of the knowledge we have been developing across disciplines over the last century for data collection, analysis and assimilation.  We must also  <b>develop outreach solutions</b> that help ensure equity within academic and public spheres.

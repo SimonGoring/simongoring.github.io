@@ -4,24 +4,15 @@ title: Research Publications
 concept: Academic Peer Reviewed Publications and Software
 ---
 
-<style>
-	p.hangingindent:hover{
-
-	  background:#dddddd
-
-	}
-</style>
-
 <h1>Alternative Publication Metrics (AltMetrics)</h1>
 
-<hr>
-<br>
-[<a href="https://impactstory.org/u/0000-0002-2700-4605" title="AltMetric Links">ImpactStory</a>] - [<a href="http://scholar.google.com/citations?user=Q3ekwgkAAAAJ&hl=en" title="Google Scholar homepage">Google Citations</a>] - [<a href="http://orcid.org/0000-0002-2700-4605" title="Unique Researcher Identifier">ORCiD</a>]
-<hr>
-<br>
-<h1>Publications</h1>
+<div class="bounder">
 
-<h2>Published</h2>
+[<a href="https://impactstory.org/u/0000-0002-2700-4605" title="AltMetric Links">ImpactStory</a>] - [<a href="http://scholar.google.com/citations?user=Q3ekwgkAAAAJ&hl=en" title="Google Scholar homepage">Google Citations</a>] - [<a href="http://orcid.org/0000-0002-2700-4605" title="Unique Researcher Identifier">ORCiD</a>]
+
+</div>
+
+<h1>Publications</h1>
 
 <h3>2017 Publications</h3>
 
@@ -93,7 +84,7 @@ Matthes, JH., Goring S, Williams JW, Dietze MC. 2016. Benchmarking historical CM
 
 <p class="hangingindent">Vamosi J, Goring S, Kennedy B, Mayberry R, Moray C, Neame LA, Tunbridge ND, Elle E. (2007) Pollination, Floral Display, and the Ecological Correlates of Polyploidy. <i>Functional Ecosystems and Communities</i>. <b>1</b>: 1-9. [<a href="http://www.globalsciencebooks.info/JournalsSup/images/Sample/FEC_1%281%291-9.pdf">Open Access</a>]</p>
 
-<h2>SOFTWARE</h2>
+<h2>Software</h2>
 
 <p class="hangingindent">Goring S. (2016)  <i>earthlife</i> – an R package for the EarthLife Consortium API.  [<a href="https://github.com/earthlifeconsortium/earthlife">GitHub</a>]</p>
 
@@ -101,8 +92,7 @@ Matthes, JH., Goring S, Williams JW, Dietze MC. 2016. Benchmarking historical CM
 
 <p class="hangingindent">Goring S. (2013)  <i>neotoma</i> – an R package for the Neotoma Paleoecological Database.  [<a href="https://github.com/ropensci/neotoma">GitHub</a>]</p>
 
-
-<h2>COMMENTS, BOOK CHAPTERS & OTHER ARTICLES</h2>
+<h2>Comments, Book Chapters & Other Articles</h2>
 
 <p class="hangingindent">Keenlyside K, Nantel P, Pellatt M, Goring S, Gray P.  (2014) Chapter 6: Natural environment and biodiversity.  In: From Impacts to Adaptation – Assessment Update.  Natural Resources Canada. [<a href="http://www.nrcan.gc.ca/sites/www.nrcan.gc.ca/files/earthsciences/pdf/assess/2014/pdf/Chapter6-Biodiversity_Eng.pdf">Open Access</a>]</p>
 

@@ -1,0 +1,43 @@
+---
+---
+
+p { font-family: "Raleway"; 
+    color: rgba(0,0,0,0.8); }
+
+a { font-weight: 700; 
+    color: rgba(59, 72, 202, 0.8); }
+
+h1, h2 { font-family: 'Raleway';
+		 color: rgba(72,202,59, 0.9); 
+		 margin-top: 0.2cm; 
+	 	 margin-bottom: 0.2cm;
+	}
+
+h1 { font-weight: 800;
+     line-height: 1.1;
+ 	 direction: inherit; 
+ 	 font-variant: small-caps;
+ 	}
+
+h2 { font-weight: 700;
+	 font-variant: normal; 
+	 line-height: 100%; 
+	 text-align: left; 
+	 page-break-inside: avoid; 
+	 orphans: 2;
+	 widows: 2; 
+	 text-decoration: none 
+	}
+
+p.hanging-indent { margin-left: 1cm; text-indent: -0.5cm; font-family: "EB Garamond"; font-size: 11pt }
+
+p.hangingindent:hover{
+  background:#dddddd
+}
+
+a:link { so-language: zxx }
+
+summary {
+	padding-top: 10px;
+	font-family: "Raleway"; 
+}

@@ -1,0 +1,67 @@
+---
+layout: page
+res_class: Misc
+title: Accessibility with Jekyll Pages
+concept: How to ensure your webpages are accessible for all.
+---
+
+## Why accessibility?
+
+<div class="bounder" style="padding-bottom:0px;margin-bottom=-5px;">
+
+<blockquote>Given the importance of public presentations for building professional networks and developing new contacts, accessibility benefits the entire scientific community. It removes barriers for presenters and audience members with disabilities, while facilitating communication and connections between scientific peers that last far beyond any single event. </blockquote>
+
+<p  align="right"><a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/fee.1771" title="Link to an opinion piece in Frontiers in Ecology and the Environment about accessibility.">Accessibility is Imperative for Inclusion</a></p>
+</div>
+
+
+In this paper with Kaitlin Stack Whitney, Aerin Jacobs, Timotee Poisot and Emilio Bruna we discuss the importance of accessibility within scientific presentations, but I am aware of a certain hypocrisy inherent in the article.  Although I strive to produce accessible content, I know that I don't always succeed.
+
+I've been working through some changes to the way my webpage is generated, in part because I've been diving a little bit deeper into HTML, CSS and how liquid templating works as part of another project.  As I was trying to figure out how to get `<summary>` and `<details>` tags to auto-expand on `:hover` I came across an article on the accessibility of these tags.
+
+Let's face it.  As far as many of us are concerned, the mouse is an indispensable tool, and we rarely (if ever) think about how we would work without one, because we don't have to. 
+
+## Consider accessibility
+
+What if you can't use a mouse?  What if you have a visual disability that means you have to navigate webpages through keystrokes?  What if there are other considerations you've failed to account for?  That's what online accessibility tools are for:
+
+<figure>
+<iframe style="width:100%;height:400px" src="local_ignore/achecker_2018-03-29_17-31-40.html" title="March 29, 2018 achecker.ca accessibility check for my homepage"></iframe>
+<figcaption>The web accessibility check for <a href="goring.org">goring.org/index.html</a>, rendered to HTML, from <a href="https://achecker.ca/checker/index.php">AChecker.ca</a></figcaption>
+</figure>
+
+This is the report for my website on March 28, 2017.  There's a lot of failures, and more than I would have expected.  The website checker tool at <strong>AChecker</strong> is pretty easy to use, and can export the results in multiple formats, `csv`, `html`, or `pdf`.
+
+From this report I can identify certain key issues:
+
+### Using `<i>` and `<b>` (not `<em>` and `<strong>`)
+
+There's a nice explanation about why we should prefer `<em>/<strong>` over `<i>/<b>` on a <a href="https://www.codecademy.com/articles/ready-accessibility#-semantic-tags-">CodeAcademy page about web accessibility</a>.  Basically it comes down to the difference between formatting and meaning.  Things that are bolded or italicized because we want to emphasize them should use tags that represent the emphasis, so that people who use assistive technology can also recognize the emphasis.  
+
+Fixing the `<i>/<b>` issue meant a number of changes throughout my webpage, but these are changes that do not result in any change in visual information, and improve my ability to communicate my message to a broader audience.
+
+### Identifying Text Language
+
+This was a fairly easy fix, in my Jekyll `_layouts/default.html` file.  <a href="https://github.com/SimonGoring/simongoring.github.io/commit/a4ab5b960eaee48c40b75ac5140d29bdf9fb5ff2">This GitHub commit</a> shows exactly how I did it (and identified the default text direction).
+
+Why is it important?  Many screen readers provide the ability to switch languages to ensure that pronunciation is consistent when reading documents.  It also provides a number of other advantages, specifically when dealing with forms (it tells the browser which spell checker to use), or if you expect your page to auto-hyphenate.  Regardless, it's an easy fix and one you should consider.
+
+### `script` Warnings and Errors
+
+There are two warnings and errors generated for the `<script>` elements in the home page.  I use `JSON-LD` on all my pages, using the <a href="schema.org">schema.org</a> vocabulary, so that web engines like Google or Bing can scrape the pages to get more valuable metadata from my pages (<a href="https://search.google.com/structured-data/testing-tool/u/0/#url=goring.org">see this information using Google's Structured Data Validation tool</a>).  Most accessibility checkers cannot actually check what the code in these script elements is actually doing, nor should they, since it may result in malicious behavior.
+
+Because the accessbility checker should not be expected to run all scripts, these error/warnings are generated by default.  You can read more about what they're trying to do by reading the <a href="https://achecker.ca/checker/suggestion.php?id=86">the AChecker suggestions page for the script warnings</a>.  In my case I can confirm that these script elements are only intended to return `JSON-LD` structured objects, and not changing the way information is displayed on the page.  
+
+### Missing Sitemaps
+
+<a href="https://www.w3.org/TR/WCAG20-TECHS/G63.html">A sitemap is a critical element of a website</a>.  It is generally an XML file that helps indicate the general structure of your site, how pages are linked and how to navigate between and across the site.  The sitemap helps support accessibility by ensuring there are multiple ways to navigate across pages within your website.  It prevents links from being hidden behind images, complex navigation bars, or other content that can't be accessed by individuals who have to use other technology to navigate the web.
+
+Jekyll (and GitHub Pages) makes it possible to add <a href="https://github.com/jekyll/jekyll-sitemap">the `jekyll-sitemap` plugin</a>.  This plugin automatically renders a sitemap for the website, either locally or when pushed to GitHub.  To add the plugin you have to follow the instructions on the plugin's page, but it's relatively straightforward (here is <a href="https://github.com/SimonGoring/simongoring.github.io/commit/a83b97c5be8b0cd89a58b9156d47d6eb360a6836">the commit I made to add jekyll-sitemap</a>).  Now, if you want, you can navigate to <a href="http://www.goring.org/sitemap.xml">http://www.goring.org/sitemap.xml</a> and see all the pages within the site in machine readable format.
+
+## The Road Ahead
+
+None of these changes are particularly daunting, and by checking my website I've made sure that more people can easily navigate the pages.  I've also found some smaller issues, that don't impact accessibility, but do improve the overall look and feel of my site.  I've also learned more about HTML, web design and found a few typos.
+
+In our paper, and in the <a href="https://www.authorea.com/users/152134/articles/206076-making-scientific-content-more-accessible">longer-form Authoria pre-print</a> we make the point that ensuring accessibility starts with considering accessibility.  
+
+I admit that I did not consider it initially, and I apologize to any individuals who have visited my pages but were unable to render content. I will strive to do better, and to help others do better as well. I welcome any suggestions or changes, and am open to criticism on any of the elements of this post, or any others, that people wish to mention.

@@ -6,24 +6,39 @@ weight: 4
 
 # Resources
 
-<object type="image/svg+xml" data="../images/commit_sjg.svg" style="float:right;width:18%; padding:5px;border-color:gray;border-style:solid;border-width:0.5px;margin-left:8px;">
-  Commit to the cloud!
-  <!-- fallback image in CSS -->
-</object>
-<span style="text-align:full;">
-A collection of instructional or informational resources relating to R, web development, collaboration, or general informational content.  All of these documents are licensed under an MIT license and are free to use.  You may also consider contributing through the [GitHub repository](https://github.com/SimonGoring/simongoring.github.io) for this site.  It's also worth noting that many of these linked documents also have their own GitHub repositories, indicated within the document and you are always welcome to contribute there too.</span>
-<p><br>
+<div>
+	<object type="image/svg+xml" data="../images/commit_sjg.svg" style="float:right;width:18%; padding:5px;border-color:gray;border-style:solid;border-width:0.5px;margin-left:8px;">
+	  Commit to the cloud!
+	  <!-- fallback image in CSS -->
+	</object>
+	<span style="text-align:full;">
+	A collection of instructional or informational resources relating to R, web development, collaboration, or general informational content.  All of these documents are licensed under an MIT license and are free to use.  You may also consider contributing through <a href="https://github.com/SimonGoring/simongoring.github.io">my homepage's GitHub repository</a>.  Many of these linked documents also have their own GitHub repositories, indicated within the document and you are always welcome to contribute there too.</span>
+</div>
+
 <h2>Pages</h2>
 <hr style="color:gray;margin-bottom:25px">
     
-{% assign items = site.resources | sort: 'res_class' %}
+{% assign items = site.resources | sort: 'res_class' | sort: 'title' %}
 
-{% for resources in items %}
-  <div class="col-lg-3 col-md-6 text-center">
-    <div class="resource-box">
+{% assign classes = "Development,GitHub,Misc,R" | split: "," %}
+
+{% for class in classes %}
+  
+  <details>
+  <summary><h2 style="display:inline;">{{ class }}</h2></summary>
+
+  {% for resources in items %}
+
+	  {% if resources.res_class  == class %}
+
+<div class="col-lg-3 col-md-6 text-center">
+	<div class="resource-box">
 	  <span style="font-variant:small-caps;font-size:110%;font-weight:500;"><big>{{ resources.title }}</big></span> [<a href="{{resources.url}}">Link</a>]<br>
-      <span style = "display:inline-block;width:80%;color:gray;">{{ resources.concept }}</span><span style="float:right;color:green;"><small>{{ resources.res_class }}</small></span>
-      <br><p></p>
+	  <span style = "display:inline-block;width:80%;color:gray;">{{ resources.concept }}</span><span style="float:right;color:green;"><small>{{ resources.res_class }}</small></span>
+	  <br><p></p>
 	</div>
-  </div>
+</div>
+	  {% endif %}
+  {% endfor %}
+  </details>
 {% endfor %}

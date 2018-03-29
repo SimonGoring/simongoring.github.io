@@ -4,23 +4,18 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css?family=EB+Garamond|Raleway');
 
-p { font-family: "Raleway"; }
+@import url('text.css');
+@import url('figures.css');
 
-h2 { margin-top: 0cm; margin-bottom: 0.2cm; direction: ltr; font-variant: normal; color: #000000; line-height: 100%; text-align: left; page-break-inside: avoid; orphans: 2; widows: 2; text-decoration: none }
-
-h2 { font-family: "Raleway"; font-size: 14pt; font-style: bold }
-
-h1 { margin-bottom: 0.21cm; direction: inherit }
-
-h1 { font-family: "Raleway"; font-size: 18pt; font-style: bold; }
-
-p.hanging-indent { margin-left: 1cm; text-indent: -0.5cm; font-family: "EB Garamond"; font-size: 11pt }
-
-p.hangingindent:hover{
-  background:#dddddd
+div.bounder {
+	border-top-style: solid;
+	border-bottom-style: solid;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-top: 10px;
+	margin-bottom:10px;
+	border-width: 1px;
 }
-
-a:link { so-language: zxx }
 
 .new_papers {
 	padding-top: 10px;
@@ -30,14 +25,9 @@ a:link { so-language: zxx }
   background:#cccccc
 }
 
-summary {
-	padding-top: 10px;
-	font-family: "Raleway"; 
-}
-
 .news {
 	padding: 10px;
-	background:#cccccc;
+	background: rgba(230, 230, 230, 0.8);
 	border-style: solid;
 	border-color:#080808;
 	border-radius: 5px;
