@@ -7,15 +7,15 @@ weight: 1
 
 <h1>Solving Wicked Problems</h1>
 
-We are faced with "wicked problems"<sup><small>1</small></sup> requiring us to find <b>cross-disciplinary answers</b> to solve some of the most pressing issues facing society today.
+We are faced with "wicked problems"<sup><small>1</small></sup> requiring us to find <strong>cross-disciplinary answers</strong> to solve some of the most pressing issues facing society today.
 
-To solve these wicked problems we need to clearly define problem conditions, <b>develop flexible and open workflows</b>, and build the tools that allow us to take advantage of the knowledge we have been developing across disciplines over the last century for data collection, analysis and assimilation.  We must also  <b>develop outreach solutions</b> that help ensure equity within academic and public spheres.
+To solve these wicked problems we need to clearly define problem conditions, <strong>develop flexible and open workflows</strong>, and build the tools that allow us to take advantage of the knowledge we have been developing across disciplines over the last century for data collection, analysis and assimilation.  We must also  <strong>develop outreach solutions</strong> that help ensure equity within academic and public spheres.
 
 <h2>About Me</h2><hr>
 
 [My publication record](http://simongoring.github.io/cv/Publications.html) focuses on relationships between biotic systems and large scale climatic change at time-scales of centuries to millenia, but my research efforts focus on facilitating broader engagement with the tools and methods neccessary to build the technical toolkits we require to move forward as a society.
 
-Domain specific knowledge is important in managing research questions or looking for solutions, but increasingly, domain knowledge needs to be supported by experience in <b>building research infrastructure, undertaking outreach, managing complex workflows, and planning projects with multiple interconnected components</b>.  My research activities pair deep understanding in the paleogeosciences with project management skills in geoinformatics, as part of the [Neotoma Paleoecological Database](http://neotomadb.org), and within [EarthCube](http://earthcube.org).
+Domain specific knowledge is important in managing research questions or looking for solutions, but increasingly, domain knowledge needs to be supported by experience in <strong>building research infrastructure, undertaking outreach, managing complex workflows, and planning projects with multiple interconnected components</strong>.  My research activities pair deep understanding in the paleogeosciences with project management skills in geoinformatics, as part of the [Neotoma Paleoecological Database](http://neotomadb.org), and within [EarthCube](http://earthcube.org).
 
 <div class="news">
 	<h1>News</h1>

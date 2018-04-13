@@ -7,26 +7,33 @@ p { font-family: "Raleway";
 a { font-weight: 700; 
     color: rgba(59, 72, 202, 0.8); }
 
-h1, h2 { font-family: 'Raleway';
+h1, h2, h3, h4, h5 { font-family: 'Raleway';
 		 color: rgba(72,202,59, 0.9); 
 		 margin-top: 0.2cm; 
 	 	 margin-bottom: 0.2cm;
-	}
-
-h1 { font-weight: 800;
-     line-height: 1.1;
- 	 direction: inherit; 
- 	 font-variant: small-caps;
- 	}
-
-h2 { font-weight: 700;
+	 	 direction: inherit;
 	 font-variant: normal; 
-	 line-height: 100%; 
-	 text-align: left; 
 	 page-break-inside: avoid; 
+	 text-align: left; 
 	 orphans: 2;
 	 widows: 2; 
 	 text-decoration: none 
+	}
+
+h1 { font-weight: 900;
+     line-height: 110%; 
+ 	 font-variant: small-caps;
+ 	 font-size: 200%;
+ 	}
+
+h2 { font-weight: 700;
+	 line-height: 100%;
+	 font-size: 150%;
+	}
+
+h3 { font-weight: 500;
+	 line-height: 100%;
+	 font-size: 100%;
 	}
 
 p.hanging-indent { margin-left: 1cm; text-indent: -0.5cm; font-family: "EB Garamond"; font-size: 11pt }
