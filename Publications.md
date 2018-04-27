@@ -22,6 +22,9 @@ Goring SJ, Whitney KS, Jacob A. 2018. Accessibility is imperative for inclusion.
 <p class="hangingindent">Williams JW, Grimm EC, Blois JL, Charles DF, Davis EB, Goring SJ, Graham RW, Smith AJ, Anderson M, Arroyo-Cabrales J, Ashworth AC, Betancourt JL, Bills BW, Booth RK, Buckland PI, Curry BB, Giesecke T, Jackson ST, Latorre C, Nichols J, Purdum T, Roth RE, Stryker M, Takahara H. 2018. The Neotoma Paleoecology Database, a multiproxy, international, community-curated data resource. <em>Quaternary Research</em>, <b>89</b>:156-177. [<a href="
 https://doi.org/10.1017/qua.2017.105">Open Access</a>]</p>
 
+
+<p class="hangingindent">Lewthwaite JMM, Angert AL, Kembel SW, Goring SJ, Davies TJ, Mooers AØ, Sperling FAH, Vamosi SM, Vamosi JC, Kerr JT. 2018. Canadian butterfly climate debt is significant and correlated with range size. <em>Ecography<em>.
+
 <h2>2017 Publications</h2>
 
 <p class="hangingindent">
@@ -44,7 +47,7 @@ Peyron O, Combourieu-Nebout N, Brayshaw D, Goring S, Andrieu-Pone V, Desprat S, 
 Dawson A, Paciorek C, McLachlan J, Goring S, Williams JW, Jackson S. 2016. Quantifying pollen-vegetation relationships to reconstruct ancient forests using 19th-century forest composition and pollen data. <em>Quaternary Science Reviews</em>. <b>137</b>:156-175.</p>
 
 <p class="hangingindent">
-Matthes, JH., Goring S, Williams JW, Dietze MC. 2016. Benchmarking historical CMIP5 plant functional types across the Upper Midwest and Northeastern United States. <em>Journal of Geophysical Research: Biogeosciences</em>. <b>121</b>. [<a href="http://onlinelibrary.wiley.com/doi/10.1002/2015JG003175/abstract">link</a>]</p>
+Matthes, JH, Goring S, Williams JW, Dietze MC. 2016. Benchmarking historical CMIP5 plant functional types across the Upper Midwest and Northeastern United States. <em>Journal of Geophysical Research: Biogeosciences</em>. <b>121</b>. [<a href="http://onlinelibrary.wiley.com/doi/10.1002/2015JG003175/abstract">link</a>]</p>
 
 <p class="hangingindent">Paciorek C, Goring SJ, Thurman A, Cogbill C, Williams J, Mladenoff D, Peters JA, Zhu J, McLachlan JS. 2016. Statistically-estimated tree composition for the northeastern United States at Euro-American settlement. <em>PLoS ONE</em>. <b>11</b>: e0150087. [<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150087">Open Access</a>]</p>
 
