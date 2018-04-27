@@ -14,16 +14,15 @@ concept: Academic Peer Reviewed Publications and Software
 <h2>2018 Publications</h2>
 
 <p class="hangingindent">
-Cogbill CV, Thurman AL, Williams JW, Zhu J, Mladenoff DJ, & Goring SJ. 2018. A retrospective on the accuracy and precision of plotless forest density estimators in ecological studies. Ecosphere, 9(4):e02187 [<a href="https://doi.org/10.1002/ecs2.2187">Open Access</a>]</p>
-
-<p class="hangingindent">
-Goring SJ, Whitney KS, Jacob A. 2018. Accessibility is imperative for inclusion. <em>Frontiers in Ecology and the Environment</em>. <b>16</b>: 63. [<a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/fee.1771">Open Access</a>]</p>
+Goring SJ, Whitney KS, Jacob A. 2018. Accessibility is imperative for inclusion. <em>Frontiers in Ecology and the Environment</em>. <b>16</b>: 63. [<a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/fee.1771">Open Access</a>, <a href="https://dx.doi.org/10.22541/au.150844289.92609826">Pre-Print</a>]</p>
 
 <p class="hangingindent">Williams JW, Grimm EC, Blois JL, Charles DF, Davis EB, Goring SJ, Graham RW, Smith AJ, Anderson M, Arroyo-Cabrales J, Ashworth AC, Betancourt JL, Bills BW, Booth RK, Buckland PI, Curry BB, Giesecke T, Jackson ST, Latorre C, Nichols J, Purdum T, Roth RE, Stryker M, Takahara H. 2018. The Neotoma Paleoecology Database, a multiproxy, international, community-curated data resource. <em>Quaternary Research</em>, <b>89</b>:156-177. [<a href="
 https://doi.org/10.1017/qua.2017.105">Open Access</a>]</p>
 
+<p class="hangingindent">
+Cogbill CV, Thurman AL, Williams JW, Zhu J, Mladenoff DJ, & Goring SJ. 2018. A retrospective on the accuracy and precision of plotless forest density estimators in ecological studies. Ecosphere, 9(4):e02187 [<a href="https://doi.org/10.1002/ecs2.2187">Open Access</a>]</p>
 
-<p class="hangingindent">Lewthwaite JMM, Angert AL, Kembel SW, Goring SJ, Davies TJ, Mooers AØ, Sperling FAH, Vamosi SM, Vamosi JC, Kerr JT. 2018. Canadian butterfly climate debt is significant and correlated with range size. <em>Ecography<em>.
+<p class="hangingindent">Lewthwaite JMM, Angert AL, Kembel SW, Goring SJ, Davies TJ, Mooers AØ, Sperling FAH, Vamosi SM, Vamosi JC, Kerr JT. 2018. Canadian butterfly climate debt is significant and correlated with range size. <em>Ecography</em>. [<a href="https://doi.org/10.1111/ecog.03534">Open Access</a>]
 
 <h2>2017 Publications</h2>
 

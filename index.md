@@ -13,7 +13,7 @@ To solve these wicked problems we need to clearly define problem conditions, <st
 
 <h2>About Me</h2><hr>
 
-[My publication record](http://simongoring.github.io/cv/Publications.html) focuses on relationships between biotic systems and large scale climatic change at time-scales of centuries to millenia, but my research efforts focus on facilitating broader engagement with the tools and methods neccessary to build the technical toolkits we require to move forward as a society.
+[My publication record](http://simongoring.github.io/publications.html) focuses on relationships between biotic systems and large scale climatic change at time-scales of centuries to millennia, but my research efforts focus on facilitating broader engagement with the tools and methods necessary to build the technical toolkits we require to move forward as a society.
 
 Domain specific knowledge is important in managing research questions or looking for solutions, but increasingly, domain knowledge needs to be supported by experience in <strong>building research infrastructure, undertaking outreach, managing complex workflows, and planning projects with multiple interconnected components</strong>.  My research activities pair deep understanding in the paleogeosciences with project management skills in geoinformatics, as part of the [Neotoma Paleoecological Database](http://neotomadb.org), and within [EarthCube](http://earthcube.org).
 
