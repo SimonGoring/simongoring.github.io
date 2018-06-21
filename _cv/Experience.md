@@ -28,27 +28,27 @@ concept: Education, Employment and Teaching Experience
 ## Research Positions
 
 <table>
-  <tr> 
+  <tr>
     <td>July 2014 – Current</td>
     <td>Assistant Scientist.  Department of Geography, University of Wisconsin.  Madison, WI</td>
   </tr>
-  <tr> 
+  <tr>
     <td>July 2011 – July 2014</td>
     <td>Post-Doctoral Researcher.  Department of Geography, University of Wisconsin.  Madison, WI</td>
   </tr>
-  <tr> 
+  <tr>
     <td>2004 - 2005</td>
     <td>Dr. Staffan Lindgren (University of Northern BC)</td>
   </tr>
-  <tr> 
+  <tr>
     <td>2003 – 2004</td>
     <td>Dr. Josef D Ackerman (University of Guelph)</td>
   </tr>
-  <tr> 
+  <tr>
     <td>Spring 2002</td>
     <td>Dr. Michael Gillingham (UNBC)</td>
   </tr>
-  <tr> 
+  <tr>
     <td>Summer 2000</td>
     <td>Dr. Dale Vitt (University of Alberta)</td>
   </tr>
