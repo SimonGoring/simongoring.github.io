@@ -277,6 +277,7 @@ concept: My full cv, part of an experiment with Pandoc, CSS and Markdown.
 | 2009 | AASP – The Palynological Society Annual Meeting – Copy editor |
 
 ### Reviewer
+
 Geoscientific Model Development, Journal of Biogeography, Environment and Sustainability, Journal of Maps, Frontiers in Biogeography, Journal of Ecology, American Midland Naturalist, Ecology Letters, Open Ecology Journal, Geology, Environmental Modelling and Software, Climate of the Past, Earth Science Reviews, Quaternary Science Reviews, Frontiers in Paleoecology, PLOS One, Ecology and Evolution
 
 ### Public Service
