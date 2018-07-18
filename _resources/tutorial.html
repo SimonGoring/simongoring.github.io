@@ -1,7 +1,7 @@
 ---
 title: Regular expressions in R, with a useful Shiny app.
 res_class: R
-concept: An introduction to the <code>strinr</code> package and regular expression searching.
+concept: An introduction to the <code>stringr</code> package and regular expression searching.
 layout: page-no-titles
 section: R Coding
 ---
@@ -287,7 +287,7 @@ file &lt;- 'https://raw.githubusercontent.com/SimonGoring/RegularExpressionR/mas
 text_file &lt;- readr::read_lines(file) %&gt;% ?????
 
 </code></pre>
-<!-- 
+<!--
 text_file <- readr::read_lines(file) %>% subset(!grepl("mom", .))
 # grepl is "logical" as opposed to a numeric vector.
 - OR -
@@ -304,11 +304,11 @@ file &lt;- 'https://raw.githubusercontent.com/SimonGoring/RegularExpressionR/mas
 
 text_file &lt;- readr::read_lines(file) %&gt;% ?????
 </code></pre>
-<!-- 
+<!--
 Answer:
-readr::read_lines(file) %>% 
-stringr::str_extract_all("\\$\\d*") %>% 
-unlist %>% na.omit %>% 
+readr::read_lines(file) %>%
+stringr::str_extract_all("\\$\\d*") %>%
+unlist %>% na.omit %>%
 stringr::str_extract("\\d(?,){1,}") %>% as.numeric %>% plot
 
 # Could add gsub ",", "" to remove the commas.
