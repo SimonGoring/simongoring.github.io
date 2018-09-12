@@ -39,7 +39,7 @@ concept: My full cv, part of an experiment with Pandoc, CSS and Markdown.
 
 <ul>
 <li>Goring SJ, Graham R, Loeffler S, Myrbo A, Oliver JS III, Ormand C, Williams JW. <em>in press</em>. The Neotoma Paleoecological Database: A research-outreach nexus. <em>The Palentological Society Special Publications</em>. [<a href="https://github.com/NeotomaDB/Education_Paper/blob/master/output/goringwilliams_neotomaResearch.pdf">GitHub Markdown PDF</a>]</li>
-<li>Farley S, Dawson A, Goring SJ, Williams JW. <em>in press</em>. Situating ecology as a big data science:  Current advances, challenges, and solutions. <em>BioScience</em>.</li>
+<li>Farley S, Dawson A, Goring SJ, Williams JW. <em>in press</em>. Situating ecology as a big data science:  Current advances, challenges, and solutions. <em>BioScience</em>. biy068. DOI: <a href="https://doi.org/10.1093/biosci/biy068">10.1093/biosci/biy068</a></li>
 <li>Goring SJ, Whitney KS, Jacob A. 2018. Accessibility is imperative for inclusion. <em>Frontiers in Ecology and the Environment</em>. <b>16</b>: 63. [<a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/fee.1771">Open Access</a>]</li>
 <li>Williams JW, Grimm EC, Blois JL, Charles DF, Davis EB, Goring SJ, Graham RW, Smith AJ, Anderson M, Arroyo-Cabrales J, Ashworth AC, Betancourt JL, Bills BW, Booth RK, Buckland PI, Curry BB, Giesecke T, Jackson ST, Latorre C, Nichols J, Purdum T, Roth RE, Stryker M, Takahara H. 2018. The Neotoma Paleoecology Database, a multiproxy, international, community-curated data resource. <em>Quaternary Research</em>, <b>89</b>:156-177. [<a href="https://doi.org/10.1017/qua.2017.105">Open Access</a>]</li>
 </ul>

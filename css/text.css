@@ -66,3 +66,9 @@ table {
   padding-top: 0px;
   padding-bottom: 10px;
 }
+
+div.resource-box {
+  padding-left: 10px;
+  border-left-style:solid;
+  border-left-color: rgba(72,202,59, 0.2);
+}

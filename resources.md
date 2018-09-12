@@ -32,7 +32,7 @@ weight: 4
 
 <div class="col-lg-3 col-md-6 text-center">
 	<div class="resource-box">
-		{{ resources.title }}  [<a href="{{resources.url}}">Link</a>]<br>
+		  [-<a href="{{resources.url}}"> {{ resources.title }} </a>-] <br>
 	  <span style = "display:inline-block;width:80%;color:gray;">{{ resources.concept }}</span><span style="float:right;color:green;"><small>{{ resources.res_class }}</small></span>
 	  <br><p></p>
 	</div>

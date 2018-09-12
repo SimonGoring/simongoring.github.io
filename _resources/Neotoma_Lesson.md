@@ -119,7 +119,7 @@ get_dataset(marion)
 
 ```
 ## A dataset_list containing 2 objects:
-## Accessed from 2016-07-01 09:46h to 2016-07-01 09:46h. 
+## Accessed from 2016-07-01 09:46h to 2016-07-01 09:46h.
 ## Datasets:
 ##  dataset.id                         site.name      long      lat
 ##        1705 Marion Lake (CA:British Columbia) -122.5472 49.30833
@@ -203,9 +203,9 @@ We can replace parameters in our original call with the `increment` variable, or
 
 
 ```r
-one_slice <- get_dataset(taxonname = 'Tsuga*', 
-                         loc = c(-150, 20, -100, 60), 
-                         ageyoung = increment[1], 
+one_slice <- get_dataset(taxonname = 'Tsuga*',
+                         loc = c(-150, 20, -100, 60),
+                         ageyoung = increment[1],
                          ageold = increment[2])
 ```
 
@@ -217,11 +217,11 @@ You should get 76 results again.  A variable is just a box for a value.  `increm
 
 ```r
 for(i in 1:20){
-  
-  one_slice <- get_dataset(taxonname = 'Tsuga*', 
-                           datasettype = 'pollen', 
-                           loc = c(-150, 20, -100, 60), 
-                           ageyoung = increment[i], 
+
+  one_slice <- get_dataset(taxonname = 'Tsuga*',
+                           datasettype = 'pollen',
+                           loc = c(-150, 20, -100, 60),
+                           ageyoung = increment[i],
                            ageold = increment[i + 1])
 }
 ```
@@ -232,14 +232,14 @@ The problem is, each itteration of the `for` loop overwrites the variable `one_s
 site_nos <- rep(NA, 20)
 
 for (i in 1:20) {
-  
-  one_slice <- get_dataset(taxonname = 'Tsuga*', 
-                           datasettype = 'pollen', 
-                           loc = c(-150, 20, -100, 60), 
-                           ageyoung = increment[i], 
+
+  one_slice <- get_dataset(taxonname = 'Tsuga*',
+                           datasettype = 'pollen',
+                           loc = c(-150, 20, -100, 60),
+                           ageyoung = increment[i],
                            ageold = increment[i + 1])
   site_nos[i] <- length(one_slice)
-  
+
 }
 ```
 
@@ -262,13 +262,13 @@ So what does this tell us about *Tsuga* pollen on the west coast?  This might no
 site_all <- rep(NA, 20)
 
 for (i in 1:20) {
-  
-  all_slice <- get_dataset(datasettype = 'pollen', 
-                           loc = c(-150, 20, -100, 60), 
-                           ageyoung = increment[i], 
+
+  all_slice <- get_dataset(datasettype = 'pollen',
+                           loc = c(-150, 20, -100, 60),
+                           ageyoung = increment[i],
                            ageold = increment[i + 1])
   site_all[i] <- length(all_slice)
-  
+
 }
 ```
 
@@ -289,15 +289,15 @@ Yes!  So we see increasing proportions of *Tsuga* pollen over time.  Where is th
 site_lat <- rep(NA, 20)
 
 for (i in 1:20) {
-  
-  all_site <- get_site(get_dataset(taxonname = 'Tsuga*', 
-                                   datasettype = 'pollen', 
-                                   loc = c(-150, 20, -100, 60), 
-                                   ageyoung = increment[i], 
+
+  all_site <- get_site(get_dataset(taxonname = 'Tsuga*',
+                                   datasettype = 'pollen',
+                                   loc = c(-150, 20, -100, 60),
+                                   ageyoung = increment[i],
                                    ageold = increment[i + 1]))
-  
+
   site_lat[i] <- mean(all_site$lat)
-  
+
 }
 ```
 
