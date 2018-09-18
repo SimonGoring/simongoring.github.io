@@ -1,36 +1,11 @@
-- date: 2018-03-17
-  class: news
-  link: http://earthcube.org
-  content: My work using GeoGeepDive to recover spatial metadata from legacy publications featured on the EarthCube blog.
+- date: 2018-01-17
+  class: Building Interdisciplinary Teams
+  other_link: 
+  link: http://goring.org/campeche_workshop
+  content: A presentation for the Campeche Chronology Building workshop, held in Campeche, Mexico, January 2018.
 
-- date: 2018-03-08
-  class: publication
-  link: https://dx.doi.org/10.1002/fee.1771
-  content: >
-    Our opinion piece in <i>Frontiers in Ecology and the Environment</i> is out!
-  element: >
-    Goring SJ, Whitney KS, Jacob A. 2018. Accessibility is imperative for inclusion. <i>Frontiers in Ecology and the Environment</i>. <b>16</b>: 63.
-
-- date: 2018-01-10
-  class: publication
-  link: https://doi.org/10.1017/qua.2017.105
-  content: A keystone publication for the Neotoma Paleoecological Database
-  element: >
-    Williams JW, Grimm EC, Blois JL, Charles DF, Davis EB, Goring SJ, Graham RW, Smith AJ, Anderson M, Arroyo-Cabrales J, Ashworth AC, Betancourt JL, Bills BW, Booth RK, Buckland PI, Curry BB, Giesecke T, Jackson ST, Latorre C, Nichols J, Purdum T, Roth RE, Stryker M, Takahara H. 2018. The Neotoma Paleoecology Database, a multiproxy, international, community-curated data resource. <i>Quaternary Research</i>, 89:156-177.
-
-- date: 2017-10-01
-  class: publication
-  link: http://dx.doi.org/10.1111/ele.12747
-  content: Land-use conversion in the American Midwest has significanty impacted the climate envelopes of key tree species.
-  element: >
-    Goring SJ, Williams JW. 2017. Effect of historic land-use and climate change on tree-climate relationships in the northern United States. <i>Ecology Letters</i>. 20:461-470.
-
-- date: 2017-11-15
-  class: news
-  link: http://goring.org/resources/Adding_CI_To_RMarkdown.html
-  content: Implementing continuous integration with RMarkdown documents to ensure documents with external dependencies are reproducible.
-
-- date: 2017-10-01
-  class: news
-  link: http://goring.org/resources/Shiny-leaflet-tutorial.html
-  content: How to use Leaflet and R's Shiny package to interactively explore spatial data.
+- date: 2018-01-17
+  class: Building Interdisciplinary Teams
+  other_link: 
+  link: http://goring.org/campeche_workshop
+  content: A presentation for the Campeche Chronology Building workshop, held in Campeche, Mexico, January 2018.
