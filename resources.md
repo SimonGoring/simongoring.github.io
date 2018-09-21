@@ -17,15 +17,14 @@ weight: 4
 
 <h2>Pages</h2>
 <hr style="color:gray;margin-bottom:25px">
-    
+
 {% assign items = site.resources | sort: 'res_class' | sort: 'title' %}
 
 {% assign classes = "Development,GitHub,Misc,R" | split: "," %}
 
 {% for class in classes %}
-  
-  <details>
-  <summary><h2 style="display:inline;">{{ class }}</h2></summary>
+
+  <h3 style="display:inline;">{{ class }}</h3>
 
   {% for resources in items %}
 
@@ -33,12 +32,11 @@ weight: 4
 
 <div class="col-lg-3 col-md-6 text-center">
 	<div class="resource-box">
-	  <span style="font-variant:small-caps;font-size:110%;font-weight:500;"><big>{{ resources.title }}</big></span> [<a href="{{resources.url}}">Link</a>]<br>
+		  [-<a href="{{resources.url}}"> {{ resources.title }} </a>-] <br>
 	  <span style = "display:inline-block;width:80%;color:gray;">{{ resources.concept }}</span><span style="float:right;color:green;"><small>{{ resources.res_class }}</small></span>
 	  <br><p></p>
 	</div>
 </div>
 	  {% endif %}
   {% endfor %}
-  </details>
 {% endfor %}
