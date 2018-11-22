@@ -1,3 +1,15 @@
+- date: 2018-10-17
+  class: publication
+  link: https://doi.org/10.1017/9781108681582
+  content: Our new publication discussing Neotoma as a resource for teaching and outreach is out!
+  element: >
+    Goring SJ, Graham R, Loeffler S, Myrbo A, Oliver JS, Ormond C, & Williams JW. 2018. <em>The Neotoma Paleoecology Database: A Research Outreach Nexus</em>. Elements of Paleontology. Cambridge: Cambridge University Press.
+
+- date: 2018-11-20
+  class: news
+  link: http://goring.org/resources/atom_and_r.html
+  content: A new post about using the Atom Editor to work in R, as an alternative to RStudio.
+
 - date: 2018-03-17
   class: news
   link: http://earthcube.org
