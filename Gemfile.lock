@@ -244,6 +244,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-seo-tag
+  jekyll-theme-primer (~> 0.4)
 
 BUNDLED WITH
    1.17.1

@@ -150,13 +150,15 @@ You currently have:
  * 17 untracked folders
 ```
 
+![](../images/bashlistdirs.gif)
+
 ## What you've learned
 
 Hopefully in this resource you've:
 
-  * obtained a handy tool to move through a set of project directories to check which directories need some attention to get them cleaned up and committed.
-  * leaned a bit about flow control in bash
-  * learned how to print in color to the terminal
-  * learned how messy a person's project folders can get
+   * obtained a handy tool to move through a set of project directories to check which directories need some attention to get them cleaned up and committed.
+   * leaned a bit about flow control in bash
+   * learned how to print in color to the terminal
+   * learned how messy a person's project folders can get
 
 You're welcome to help improve or update this bash file by commenting on [a live version of the file on the github gist](https://gist.github.com/SimonGoring/e024d857fbb406ed8cf37ae9b54c0d51) I've made for the checker.  Thanks for reading!
