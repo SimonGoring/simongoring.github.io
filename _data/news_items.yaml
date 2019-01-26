@@ -1,7 +1,14 @@
+- date: 2019-01-15
+  class: publication
+  link: https://doi.org/10.1111/jbi.13491
+  content: Undergraduate researcher Megs Seeley discusses the significance of the western range limit of American beech (<em>Fagus grandifolia</em>)
+  element: >
+    Seeley, M., Goring, S., & Williams, J. W. 2019. Assessing the environmental and dispersal controls on Fagus grandifolia distributions in the Great Lakes region. <em>Journal of Biogeography</em>.
+
 - date: 2018-10-17
   class: publication
   link: https://doi.org/10.1017/9781108681582
-  content: Our new publication discussing Neotoma as a resource for teaching and outreach is out!
+  content: A new publication is out! Neotoma as a resource for teaching and outreach!
   element: >
     Goring SJ, Graham R, Loeffler S, Myrbo A, Oliver JS, Ormond C, & Williams JW. 2018. <em>The Neotoma Paleoecology Database: A Research Outreach Nexus</em>. Elements of Paleontology. Cambridge: Cambridge University Press.
 
@@ -9,6 +16,8 @@
   class: news
   link: http://goring.org/resources/atom_and_r.html
   content: A new post about using the Atom Editor to work in R, as an alternative to RStudio.
+  element: >
+    Some of the advantages of using Atom as an editor for R as opposed to RStudio.
 
 - date: 2018-03-17
   class: news

@@ -11,7 +11,14 @@ concept: Academic Peer Reviewed Publications and Software
 </div>
 <h1 style="padding-top:10px;">Publications</h1>
 
+<h2>2019 Publications</h2>
+
+<p class="hangingindent">Seeley, M., Goring, S., & Williams, J. W. 2019. Assessing the environmental and dispersal controls on <em>Fagus grandifolia</em> distributions in the Great Lakes region. <em>Journal of Biogeography</em>: [DOI: <a href="https://doi.org/10.1111/jbi.13491">10.1111/jbi.13491</a>]</p>
+
 <h2>2018 Publications</h2>
+
+<p class="hangingindent">
+Farley S, Dawson A, Goring SJ, Williams JW. <em>2018</em>. Situating ecology as a big data science:  Current advances, challenges, and solutions. <em>BioScience</em>. <b>68</b>:563–576. DOI: <a href="https://doi.org/10.1093/biosci/biy068">10.1093/biosci/biy068</a></p>
 
 <p class="hangingindent">
 Goring SJ, Graham R, Loeffler S, Myrbo A, Oliver JS, Ormond C, & Williams JW. 2018. <em>The Neotoma Paleoecology Database: A Research Outreach Nexus</em>. Elements of Paleontology. Cambridge: Cambridge University Press. [DOI: <a href=" https://doi.org/10.1017/9781108681582">10.1017/9781108681582</a>]

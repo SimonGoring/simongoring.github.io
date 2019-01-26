@@ -19,19 +19,20 @@ Domain specific knowledge is important in managing research questions or looking
 
 <div class="news">
 	<h1>News</h1>
-	<hr>
-	{% for item in site.data.news_items %}
-	<details>
-	<summary>{{item.content}}</summary>
+	<div class="newsinner">
+		{% for item in site.data.news_items %}
+		<details>
+		<summary>{{item.content}}</summary>
 
-	{% if item.class == "publication" %}
-	<p class="hangingindent" style="padding-left:20px;font-size:0.9em;padding-top:4px">{{item.element}} [<a href="{{item.link}}">link</a>]</p>
-	{% endif %}
-	{% if item.class == "news" %}
-	[<a href="{{item.link}}">link</a>]
-	{% endif %}
-	</details>
-	{% endfor %}
+		{% if item.class == "publication" %}
+		<p class="hangingindent" style="padding-left:20px;font-size:0.9em;padding-top:4px">{{item.element}} [<a href="{{item.link}}">link</a>]</p>
+		{% endif %}
+		{% if item.class == "news" %}
+		[<a href="{{item.link}}">link</a>]
+		{% endif %}
+		</details>
+		{% endfor %}
+	</div>
 </div>
 <br>
 <hr>

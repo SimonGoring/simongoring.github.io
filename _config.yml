@@ -25,3 +25,4 @@ collections:
 plugins_dir:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-theme-primer
