@@ -35,10 +35,21 @@ concept: My full cv, part of an experiment with Pandoc, CSS and Markdown.
 
 ## Publications
 
+### 2020 Publications
+
+<ul>
+<li>
+Trachsel, M., Dawson A., Paciorek, C.J., Williams, J.W., McLachlan, J.S., Cogbill C.V., Foster D.R., Goring S.J., Jackson S.T., Oswald W.W., Shuman B.N. <em>2020</em>. Comparison of settlement-era vegetation reconstructions for STEPPS and REVEALS pollen–vegetation models in the northeastern United States. <em>Quaternary Research</em> 1–20. <a href=https://doi.org/10.1017/qua.2019.81>10.1017/qua.2019.81</a></li>
+</ul>
+
 ### 2019 Publications
 
 <ul>
-<li>Seeley M, Goring S, & Williams JW. 2019. Assessing the environmental and dispersal controls on <em>Fagus grandifolia</em> distributions in the Great Lakes region. <em>Journal of Biogeography</em>: [DOI: <a href="https://doi.org/10.1111/jbi.13491">10.1111/jbi.13491</a>]</li>
+<li>Dawson, A., Paciorek, C. J., Goring, S. J., Jackson, S. T., McLachlan, J. S., and Williams, J. W.. <em>2019</em>. Quantifying trends and uncertainty in prehistoric forest composition in the upper Midwestern United States. <em>Ecology</em> 100( 12):e02856. <a href=http://doi.org/10.1002/ecy.2856>10.1002/ecy.2856</a></li>
+
+<li>Seeley M, Goring S, & Williams JW. 2019. Assessing the environmental and dispersal controls on <i>Fagus grandifolia</i> distributions in the Great Lakes region. <em>Journal of Biogeography</em>: DOI: <a href="https://doi.org/10.1111/jbi.13491">10.1111/jbi.13491</a></li>
+
+<li>Wang, Y., Goring, S.J. & McGuire, J.L. <em>2019</em>. Bayesian ages for pollen records since the last glaciation in North America. <em>Scientific Data</em> 6, 176. <a href=https://doi.org/10.1038/s41597-019-0182-7>10.1038/s41597-019-0182-7</a></li>
 </ul>
 
 ### 2018 Publications
